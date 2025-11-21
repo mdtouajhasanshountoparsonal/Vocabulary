@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "voc_001",
+    "word": "Abandon",
+    "meaning": "ত্যাগ করা",
+    "example": "He had to abandon his car."
+  },
+  {
+    "id": "voc_002",
+    "word": "Abstract",
+    "meaning": "বিমূর্ত",
+    "example": "Abstract art can be difficult to understand."
+  },
+  {
+    "id": "voc_003",
+    "word": "Abundant",
+    "meaning": "প্রচুর",
+    "example": "The country has abundant natural resources."
+  },
+  {
+    "id": "voc_004",
+    "word": "Accurate",
+    "meaning": "সঠিক",
+    "example": "Ensure the information is accurate."
+  },
+  {
+    "id": "voc_005",
+    "word": "Achieve",
+    "meaning": "অর্জন করা",
+    "example": "She hopes to achieve her goals."
+  },
+  {
+    "id": "voc_006",
+    "word": "Acquire",
+    "meaning": "অর্জন করা/লাভ করা",
+    "example": "They acquired a new property."
+  },
+  {
+    "id": "voc_007",
+    "word": "Adapt",
+    "meaning": "অভিযোজিত করা",
+    "example": "Animals adapt to their environment."
+  },
+  {
+    "id": "voc_008",
+    "word": "Adequate",
+    "meaning": "পর্যাপ্ত",
+    "example": "The food supply was barely adequate."
+  },
+  {
+    "id": "voc_009",
+    "word": "Adjacent",
+    "meaning": "সংলগ্ন",
+    "example": "The library is adjacent to the park."
+  },
+  {
+    "id": "voc_010",
+    "word": "Adjust",
+    "meaning": "সামঞ্জস্য করা",
+    "example": "Adjust the seat for comfort."
+  },
+  {
+    "id": "voc_011",
+    "word": "Admire",
+    "meaning": "প্রশংসা করা",
+    "example": "I admire her courage."
+  },
+  {
+    "id": "voc_012",
+    "word": "Advantage",
+    "meaning": "সুবিধা",
+    "example": "This gives us a clear advantage."
+  },
+  {
+    "id": "voc_013",
+    "word": "Adversity",
+    "meaning": "দুর্ভাগ্য",
+    "example": "He faced many adversities."
+  },
+  {
+    "id": "voc_014",
+    "word": "Affluent",
+    "meaning": "ধনী",
+    "example": "An affluent neighborhood."
+  },
+  {
+    "id": "voc_015",
+    "word": "Aggravate",
+    "meaning": "খারাপ করা",
+    "example": "Noise can aggravate a headache."
+  },
+  {
+    "id": "voc_016",
+    "word": "Allocate",
+    "meaning": "বন্টন করা",
+    "example": "Allocate funds for the project."
+  },
+  {
+    "id": "voc_017",
+    "word": "Alter",
+    "meaning": "পরিবর্তন করা",
+    "example": "The plan was altered slightly."
+  },
+  {
+    "id": "voc_018",
+    "word": "Ambitious",
+    "meaning": "উচ্চাকাঙ্ক্ষী",
+    "example": "She is an ambitious student."
+  },
+  {
+    "id": "voc_019",
+    "word": "Amplify",
+    "meaning": "বৃদ্ধি করা",
+    "example": "Amplify the sound."
+  },
+  {
+    "id": "voc_020",
+    "word": "Ancient",
+    "meaning": "প্রাচীন",
+    "example": "Ancient civilizations are fascinating."
+  },
+  {
+    "id": "voc_021",
+    "word": "Anomaly",
+    "meaning": "ব্যতিক্রম",
+    "example": "His success was an anomaly."
+  },
+  {
+    "id": "voc_022",
+    "word": "Anticipate",
+    "meaning": "প্রত্যাশা করা",
+    "example": "We anticipate a good outcome."
+  },
+  {
+    "id": "voc_023",
+    "word": "Apparent",
+    "meaning": "স্পষ্ট",
+    "example": "It was apparent that she was tired."
+  },
+  {
+    "id": "voc_024",
+    "word": "Approach",
+    "meaning": "কাছে আসা/পদ্ধতি",
+    "example": "The approach to the problem was innovative."
+  },
+  {
+    "id": "voc_025",
+    "word": "Arbitrary",
+    "meaning": "খেয়ালী",
+    "example": "The decision was arbitrary."
+  },
+  {
+    "id": "voc_026",
+    "word": "Articulate",
+    "meaning": "স্পষ্টভাবে প্রকাশ করা",
+    "example": "He articulated his thoughts clearly."
+  },
+  {
+    "id": "voc_027",
+    "word": "Assert",
+    "meaning": "দাবি করা",
+    "example": "She asserted her independence."
+  },
+  {
+    "id": "voc_028",
+    "word": "Assess",
+    "meaning": "মূল্যায়ন করা",
+    "example": "Assess the situation carefully."
+  },
+  {
+    "id": "voc_029",
+    "word": "Assimilate",
+    "meaning": "একীভূত করা",
+    "example": "Children can assimilate new information quickly."
+  },
+  {
+    "id": "voc_030",
+    "word": "Assume",
+    "meaning": "অনুমান করা",
+    "example": "Don't assume the worst."
+  },
+  {
+    "id": "voc_031",
+    "word": "Attain",
+    "meaning": "লাভ করা",
+    "example": "He attained his goals."
+  },
+  {
+    "id": "voc_032",
+    "word": "Attribute",
+    "meaning": "গুণ",
+    "example": "Patience is an important attribute."
+  },
+  {
+    "id": "voc_033",
+    "word": "Authentic",
+    "meaning": "প্রামাণিক",
+    "example": "An authentic antique piece."
+  },
+  {
+    "id": "voc_034",
+    "word": "Avert",
+    "meaning": "এড়ানো",
+    "example": "Avert a disaster."
+  },
+  {
+    "id": "voc_035",
+    "word": "Aware",
+    "meaning": "সচেতন",
+    "example": "Be aware of your surroundings."
+  },
+  {
+    "id": "voc_036",
+    "word": "Balance",
+    "meaning": "ভারসাম্য",
+    "example": "Maintain a healthy work-life balance."
+  },
+  {
+    "id": "voc_037",
+    "word": "Beneficial",
+    "meaning": "উপকারী",
+    "example": "Exercise is beneficial for health."
+  },
+  {
+    "id": "voc_038",
+    "word": "Bias",
+    "meaning": "পক্ষপাত",
+    "example": "Avoid personal bias."
+  },
+  {
+    "id": "voc_039",
+    "word": "Boisterous",
+    "meaning": "প্রবল/গোলমেলে",
+    "example": "A boisterous crowd."
+  },
+  {
+    "id": "voc_040",
+    "word": "Brevity",
+    "meaning": "সংক্ষিপ্ততা",
+    "example": "The brevity of the speech was appreciated."
+  },
+  {
+    "id": "voc_041",
+    "word": "Capable",
+    "meaning": "সক্ষম",
+    "example": "He is capable of doing the job."
+  },
+  {
+    "id": "voc_042",
+    "word": "Captivate",
+    "meaning": "মনোমুগ্ধ করা",
+    "example": "Her singing captivated the audience."
+  },
+  {
+    "id": "voc_043",
+    "word": "Catastrophe",
+    "meaning": "মহাবিপদ",
+    "example": "The earthquake was a catastrophe."
+  },
+  {
+    "id": "voc_044",
+    "word": "Cautious",
+    "meaning": "সতর্ক",
+    "example": "Be cautious when driving."
+  },
+  {
+    "id": "voc_045",
+    "word": "Cease",
+    "meaning": "বন্ধ করা",
+    "example": "The rain ceased suddenly."
+  },
+  {
+    "id": "voc_046",
+    "word": "Challenge",
+    "meaning": "চ্যালেঞ্জ/চ্যালেঞ্জ করা",
+    "example": "It was a challenging task."
+  },
+  {
+    "id": "voc_047",
+    "word": "Characteristic",
+    "meaning": "বৈশিষ্ট্য",
+    "example": "A unique characteristic of the species."
+  },
+  {
+    "id": "voc_048",
+    "word": "Circumstance",
+    "meaning": "পরিস্থিতি",
+    "example": "Under no circumstances."
+  },
+  {
+    "id": "voc_049",
+    "word": "Clarify",
+    "meaning": "পরিষ্কার করা",
+    "example": "Please clarify your statement."
+  },
+  {
+    "id": "voc_050",
+    "word": "Coherent",
+    "meaning": "সংহত/সুসংবদ্ধ",
+    "example": "A coherent argument."
+  },
+  {
+    "id": "voc_051",
+    "word": "Coincide",
+    "meaning": "মিলে যাওয়া",
+    "example": "Our opinions often coincide."
+  },
+  {
+    "id": "voc_052",
+    "word": "Collapse",
+    "meaning": "ধসে পড়া",
+    "example": "The building collapsed."
+  },
+  {
+    "id": "voc_053",
+    "word": "Commence",
+    "meaning": "শুরু করা",
+    "example": "The meeting commenced at 9 AM."
+  },
+  {
+    "id": "voc_054",
+    "word": "Compatible",
+    "meaning": "সামঞ্জস্যপূর্ণ",
+    "example": "The software is compatible with your system."
+  },
+  {
+    "id": "voc_055",
+    "word": "Compel",
+    "meaning": "বাধ্য করা",
+    "example": "He was compelled to resign."
+  },
+  {
+    "id": "voc_056",
+    "word": "Competent",
+    "meaning": "সক্ষম/যোগ্য",
+    "example": "A competent lawyer."
+  },
+  {
+    "id": "voc_057",
+    "word": "Comprehend",
+    "meaning": "বোঝা",
+    "example": "He failed to comprehend the instructions."
+  },
+  {
+    "id": "voc_058",
+    "word": "Comprise",
+    "meaning": "গঠিত হওয়া",
+    "example": "The team comprises five members."
+  },
+  {
+    "id": "voc_059",
+    "word": "Conceive",
+    "meaning": "ধারণা করা/কল্পনা করা",
+    "example": "He conceived a new plan."
+  },
+  {
+    "id": "voc_060",
+    "word": "Concise",
+    "meaning": "সংক্ষিপ্ত",
+    "example": "A concise summary."
+  },
+  {
+    "id": "voc_061",
+    "word": "Concur",
+    "meaning": "একমত হওয়া",
+    "example": "I concur with your opinion."
+  },
+  {
+    "id": "voc_062",
+    "word": "Confine",
+    "meaning": "সীমিত করা",
+    "example": "Confine your remarks to the topic."
+  },
+  {
+    "id": "voc_063",
+    "word": "Confirm",
+    "meaning": "নিশ্চিত করা",
+    "example": "Confirm your booking."
+  },
+  {
+    "id": "voc_064",
+    "word": "Confront",
+    "meaning": "সম্মুখীন হওয়া",
+    "example": "He confronted his accusers."
+  },
+  {
+    "id": "voc_065",
+    "word": "Conjecture",
+    "meaning": "অনুমান",
+    "example": "His theory was based on conjecture."
+  },
+  {
+    "id": "voc_066",
+    "word": "Consecutive",
+    "meaning": "ক্রমিক",
+    "example": "Five consecutive wins."
+  },
+  {
+    "id": "voc_067",
+    "word": "Consequence",
+    "meaning": "পরিণতি",
+    "example": "The consequences of his actions."
+  },
+  {
+    "id": "voc_068",
+    "word": "Conserve",
+    "meaning": "সংরক্ষণ করা",
+    "example": "Conserve energy."
+  },
+  {
+    "id": "voc_069",
+    "word": "Consistent",
+    "meaning": "সঙ্গতিপূর্ণ",
+    "example": "Consistent effort is key to success."
+  },
+  {
+    "id": "voc_070",
+    "word": "Constrain",
+    "meaning": "বাধ্য করা/সংকুচিত করা",
+    "example": "Constrained by lack of funds."
+  },
+  {
+    "id": "voc_071",
+    "word": "Contemplate",
+    "meaning": "চিন্তা করা",
+    "example": "Contemplate the future."
+  },
+  {
+    "id": "voc_072",
+    "word": "Contend",
+    "meaning": "প্রতিদ্বন্দ্বিতা করা/দাবি করা",
+    "example": "He contended for the championship."
+  },
+  {
+    "id": "voc_073",
+    "word": "Context",
+    "meaning": "প্রসঙ্গ",
+    "example": "Understand the context of the sentence."
+  },
+  {
+    "id": "voc_074",
+    "word": "Contradict",
+    "meaning": "বিরোধিতা করা",
+    "example": "Their statements contradict each other."
+  },
+  {
+    "id": "voc_075",
+    "word": "Convene",
+    "meaning": "সভা আহ্বান করা",
+    "example": "The committee convened yesterday."
+  },
+  {
+    "id": "voc_076",
+    "word": "Converge",
+    "meaning": "একত্রিত হওয়া",
+    "example": "The roads converge at the bridge."
+  },
+  {
+    "id": "voc_077",
+    "word": "Crucial",
+    "meaning": "গুরুত্বপূর্ণ",
+    "example": "It's crucial to make the right decision."
+  },
+  {
+    "id": "voc_078",
+    "word": "Culminate",
+    "meaning": "চূড়ান্ত পরিণতি লাভ করা",
+    "example": "The events culminated in a major conflict."
+  },
+  {
+    "id": "voc_079",
+    "word": "Decline",
+    "meaning": "হ্রাস করা/প্রত্যাখ্যান করা",
+    "example": "His health declined rapidly."
+  },
+  {
+    "id": "voc_080",
+    "word": "Deduce",
+    "meaning": "উপসংহার করা",
+    "example": "We can deduce the answer from the evidence."
+  },
+  {
+    "id": "voc_081",
+    "word": "Deficient",
+    "meaning": "ঘাটতিপূর্ণ",
+    "example": "He is deficient in vitamins."
+  },
+  {
+    "id": "voc_082",
+    "word": "Definitive",
+    "meaning": "চূড়ান্ত",
+    "example": "A definitive answer."
+  },
+  {
+    "id": "voc_083",
+    "word": "Delegate",
+    "meaning": "প্রতিনিধি/প্রতিনিধি করা",
+    "example": "Delegate tasks to your team members."
+  },
+  {
+    "id": "voc_084",
+    "word": "Demolish",
+    "meaning": "ধ্বংস করা",
+    "example": "The old building was demolished."
+  },
+  {
+    "id": "voc_085",
+    "word": "Denounce",
+    "meaning": "নিন্দা করা",
+    "example": "He denounced the corruption."
+  },
+  {
+    "id": "voc_086",
+    "word": "Depict",
+    "meaning": "চিত্রিত করা",
+    "example": "The painting depicts a historical event."
+  },
+  {
+    "id": "voc_087",
+    "word": "Deplete",
+    "meaning": "ক্ষয় করা",
+    "example": "Deplete the resources."
+  },
+  {
+    "id": "voc_088",
+    "word": "Derive",
+    "meaning": "উত্থাপন করা",
+    "example": "He derives pleasure from reading."
+  },
+  {
+    "id": "voc_089",
+    "word": "Designate",
+    "meaning": "মনোনীত করা",
+    "example": "Designate a meeting point."
+  },
+  {
+    "id": "voc_090",
+    "word": "Detain",
+    "meaning": "আটক করা",
+    "example": "The suspect was detained by the police."
+  },
+  {
+    "id": "voc_091",
+    "word": "Deteriorate",
+    "meaning": "খারাপ হওয়া",
+    "example": "His condition began to deteriorate."
+  },
+  {
+    "id": "voc_092",
+    "word": "Devastate",
+    "meaning": "ধ্বংস করা",
+    "example": "The flood devastated the town."
+  },
+  {
+    "id": "voc_093",
+    "word": "Devise",
+    "meaning": "উদ্ভাবন করা",
+    "example": "Devise a plan."
+  },
+  {
+    "id": "voc_094",
+    "word": "Differentiate",
+    "meaning": "পার্থক্য করা",
+    "example": "Differentiate between fact and opinion."
+  },
+  {
+    "id": "voc_095",
+    "word": "Diligent",
+    "meaning": "পরিশ্রমী",
+    "example": "Diligent students often get good grades."
+  },
+  {
+    "id": "voc_096",
+    "word": "Diminish",
+    "meaning": "হ্রাস করা",
+    "example": "The pain slowly diminished."
+  },
+  {
+    "id": "voc_097",
+    "word": "Discern",
+    "meaning": "উপলব্ধি করা",
+    "example": "It's hard to discern the truth."
+  },
+  {
+    "id": "voc_098",
+    "word": "Discrepancy",
+    "meaning": "অমিল",
+    "example": "There was a discrepancy in the accounts."
+  },
+  {
+    "id": "voc_099",
+    "word": "Disseminate",
+    "meaning": "ছড়িয়ে দেওয়া",
+    "example": "Disseminate information widely."
+  },
+  {
+    "id": "voc_100",
+    "word": "Distinct",
+    "meaning": "আলাদা/স্বতন্ত্র",
+    "example": "Two distinct categories."
+  },
+  {
+    "id": "voc_101",
+    "word": "Distort",
+    "meaning": "বিকৃত করা",
+    "example": "The media distorted the facts."
+  },
+  {
+    "id": "voc_102",
+    "word": "Diverse",
+    "meaning": "বৈচিত্র্যময়",
+    "example": "The city has a diverse population."
+  },
+  {
+    "id": "voc_103",
+    "word": "Divert",
+    "meaning": "মোড় ঘোরানো/মনোযোগ সরানো",
+    "example": "The police diverted the traffic."
+  },
+  {
+    "id": "voc_104",
+    "word": "Dominate",
+    "meaning": "প্রভাব বিস্তার করা",
+    "example": "He dominated the match."
+  },
+  {
+    "id": "voc_105",
+    "word": "Dormant",
+    "meaning": "সুপ্ত",
+    "example": "The volcano has been dormant for years."
+  },
+  {
+    "id": "voc_106",
+    "word": "Emerge",
+    "meaning": "উদ্ভব হওয়া",
+    "example": "A new leader emerged."
+  },
+  {
+    "id": "voc_107",
+    "word": "Emphasize",
+    "meaning": "জোর দেয়া",
+    "example": "She emphasized the importance of education."
+  },
+  {
+    "id": "voc_108",
+    "word": "Empirical",
+    "meaning": "প্রায়োগিক",
+    "example": "The theory is based on empirical evidence."
+  },
+  {
+    "id": "voc_109",
+    "word": "Endeavor",
+    "meaning": "প্রচেষ্টা",
+    "example": "He endeavored to improve his skills."
+  },
+  {
+    "id": "voc_110",
+    "word": "Endure",
+    "meaning": "সহ্য করা",
+    "example": "He endured the hardship bravely."
+  },
+  {
+    "id": "voc_111",
+    "word": "Engage",
+    "meaning": "যুক্ত হওয়া",
+    "example": "Students engaged in group work."
+  },
+  {
+    "id": "voc_112",
+    "word": "Enhance",
+    "meaning": "উন্নত করা",
+    "example": "The new features enhance the app."
+  },
+  {
+    "id": "voc_113",
+    "word": "Enormous",
+    "meaning": "বিশাল",
+    "example": "The project requires enormous effort."
+  },
+  {
+    "id": "voc_114",
+    "word": "Ensure",
+    "meaning": "সুনিশ্চিত করা",
+    "example": "Ensure the safety of all passengers."
+  },
+  {
+    "id": "voc_115",
+    "word": "Entail",
+    "meaning": "জড়িত করা",
+    "example": "The job entails a lot of responsibility."
+  },
+  {
+    "id": "voc_116",
+    "word": "Entity",
+    "meaning": "সত্তা",
+    "example": "The company became a separate entity."
+  },
+  {
+    "id": "voc_117",
+    "word": "Enumerate",
+    "meaning": "এক এক করে উল্লেখ করা",
+    "example": "She enumerated the reasons."
+  },
+  {
+    "id": "voc_118",
+    "word": "Equivalent",
+    "meaning": "সমতুল্য",
+    "example": "One dollar is equivalent to 100 cents."
+  },
+  {
+    "id": "voc_119",
+    "word": "Erupt",
+    "meaning": "উদ্গীরণ হওয়া",
+    "example": "The volcano erupted violently."
+  },
+  {
+    "id": "voc_120",
+    "word": "Establish",
+    "meaning": "প্রতিষ্ঠা করা",
+    "example": "They established a new company."
+  },
+  {
+    "id": "voc_121",
+    "word": "Evaluate",
+    "meaning": "মূল্যায়ন করা",
+    "example": "Evaluate the effectiveness of the plan."
+  },
+  {
+    "id": "voc_122",
+    "word": "Evident",
+    "meaning": "স্পষ্ট",
+    "example": "It is evident that he is lying."
+  },
+  {
+    "id": "voc_123",
+    "word": "Exceed",
+    "meaning": "অতিক্রম করা",
+    "example": "The results exceeded expectations."
+  },
+  {
+    "id": "voc_124",
+    "word": "Exclude",
+    "meaning": "বর্জন করা",
+    "example": "They excluded him from the team."
+  },
+  {
+    "id": "voc_125",
+    "word": "Explicit",
+    "meaning": "স্পষ্ট/পরিষ্কার",
+    "example": "She gave explicit instructions."
+  },
+  {
+    "id": "voc_126",
+    "word": "Exploit",
+    "meaning": "শোষণ করা/উপযোগ করা",
+    "example": "They exploited natural resources."
+  },
+  {
+    "id": "voc_127",
+    "word": "Expose",
+    "meaning": "উন্মোচন করা",
+    "example": "The investigation exposed the truth."
+  },
+  {
+    "id": "voc_128",
+    "word": "Extend",
+    "meaning": "বর্ধিত করা",
+    "example": "They extended the deadline."
+  },
+  {
+    "id": "voc_129",
+    "word": "Extract",
+    "meaning": "উদ্ধার করা",
+    "example": "They extracted gold from the mine."
+  },
+  {
+    "id": "voc_130",
+    "word": "Fascinate",
+    "meaning": "মুগ্ধ করা",
+    "example": "Space always fascinates children."
+  },
+  {
+    "id": "voc_131",
+    "word": "Feasible",
+    "meaning": "সম্ভব",
+    "example": "The plan seems feasible."
+  },
+  {
+    "id": "voc_132",
+    "word": "Fluctuate",
+    "meaning": "উত্থান-পতন হওয়া",
+    "example": "Prices fluctuate daily."
+  },
+  {
+    "id": "voc_133",
+    "word": "Formulate",
+    "meaning": "রচনা করা",
+    "example": "They formulated a new policy."
+  },
+  {
+    "id": "voc_134",
+    "word": "Fortify",
+    "meaning": "শক্তিশালী করা",
+    "example": "They fortified the walls."
+  },
+  {
+    "id": "voc_135",
+    "word": "Foster",
+    "meaning": "উত্সাহিত করা/লালন পালন করা",
+    "example": "Parents should foster creativity."
+  },
+  {
+    "id": "voc_136",
+    "word": "Generate",
+    "meaning": "উৎপন্ন করা",
+    "example": "Solar panels generate electricity."
+  },
+  {
+    "id": "voc_137",
+    "word": "Grasp",
+    "meaning": "আয়ত্ত করা",
+    "example": "He couldn't grasp the concept."
+  },
+  {
+    "id": "voc_138",
+    "word": "Hamper",
+    "meaning": "বাধা দেয়া",
+    "example": "Heavy rain hampered progress."
+  },
+  {
+    "id": "voc_139",
+    "word": "Harsh",
+    "meaning": "কঠোর",
+    "example": "The weather was harsh."
+  },
+  {
+    "id": "voc_140",
+    "word": "Hostile",
+    "meaning": "শত্রুতাপূর্ণ",
+    "example": "The environment was hostile."
+  },
+  {
+    "id": "voc_141",
+    "word": "Hypothesis",
+    "meaning": "সম্ভাব্য তত্ত্ব",
+    "example": "The scientist proposed a hypothesis."
+  },
+  {
+    "id": "voc_142",
+    "word": "Identical",
+    "meaning": "একই/অবিকল",
+    "example": "The twins look identical."
+  },
+  {
+    "id": "voc_143",
+    "word": "Illuminate",
+    "meaning": "আলোকিত করা",
+    "example": "Street lights illuminate the road."
+  },
+  {
+    "id": "voc_144",
+    "word": "Illustrate",
+    "meaning": "উদাহরণসহ ব্যাখ্যা করা",
+    "example": "The teacher illustrated the point clearly."
+  },
+  {
+    "id": "voc_145",
+    "word": "Imitate",
+    "meaning": "অনুকরণ করা",
+    "example": "Children imitate adults."
+  },
+  {
+    "id": "voc_146",
+    "word": "Immense",
+    "meaning": "অপরিমেয়",
+    "example": "He has immense talent."
+  },
+  {
+    "id": "voc_147",
+    "word": "Impair",
+    "meaning": "ক্ষতি করা",
+    "example": "Smoking can impair health."
+  },
+  {
+    "id": "voc_148",
+    "word": "Implement",
+    "meaning": "বাস্তবায়ন করা",
+    "example": "They implemented the new rules."
+  },
+  {
+    "id": "voc_149",
+    "word": "Implicit",
+    "meaning": "অস্ফুট/পরোক্ষ",
+    "example": "He has implicit trust in her."
+  },
+  {
+    "id": "voc_150",
+    "word": "Impose",
+    "meaning": "আরোপ করা",
+    "example": "The government imposed new taxes."
+  },
+  {
+    "id": "voc_151",
+    "word": "Incentive",
+    "meaning": "প্রণোদনা",
+    "example": "They offered incentives to employees."
+  },
+  {
+    "id": "voc_152",
+    "word": "Incorporate",
+    "meaning": "অন্তর্ভুক্ত করা",
+    "example": "The design incorporates modern elements."
+  },
+  {
+    "id": "voc_153",
+    "word": "Indicate",
+    "meaning": "ইঙ্গিত করা",
+    "example": "His gesture indicated approval."
+  },
+  {
+    "id": "voc_154",
+    "word": "Induce",
+    "meaning": "প্ররোচিত করা",
+    "example": "The medicine induced sleep."
+  },
+  {
+    "id": "voc_155",
+    "word": "Inevitable",
+    "meaning": "অনিবার্য",
+    "example": "Death is inevitable."
+  },
+  {
+    "id": "voc_156",
+    "word": "Infer",
+    "meaning": "অনুমান করা",
+    "example": "We can infer that he is tired."
+  },
+  {
+    "id": "voc_157",
+    "word": "Inflate",
+    "meaning": "ফুলিয়ে তোলা",
+    "example": "They inflated the balloon."
+  },
+  {
+    "id": "voc_158",
+    "word": "Influence",
+    "meaning": "প্রভাব",
+    "example": "Parents influence children greatly."
+  },
+  {
+    "id": "voc_159",
+    "word": "Inhibit",
+    "meaning": "দমন করা",
+    "example": "Fear can inhibit progress."
+  },
+  {
+    "id": "voc_160",
+    "word": "Initiate",
+    "meaning": "শুরু করা",
+    "example": "They initiated the project."
+  },
+  {
+    "id": "voc_161",
+    "word": "Innovate",
+    "meaning": "উদ্ভাবন করা",
+    "example": "The company continues to innovate."
+  },
+  {
+    "id": "voc_162",
+    "word": "Insight",
+    "meaning": "অন্তর্দৃষ্টি",
+    "example": "She gained insight into the issue."
+  },
+  {
+    "id": "voc_163",
+    "word": "Inspect",
+    "meaning": "পরিদর্শন করা",
+    "example": "The officer inspected the site."
+  },
+  {
+    "id": "voc_164",
+    "word": "Inspire",
+    "meaning": "অনুপ্রাণিত করা",
+    "example": "His speech inspired the crowd."
+  },
+  {
+    "id": "voc_165",
+    "word": "Integrate",
+    "meaning": "একীভূত করা",
+    "example": "They integrated new features."
+  },
+  {
+    "id": "voc_166",
+    "word": "Intense",
+    "meaning": "তীব্র",
+    "example": "The heat was intense."
+  },
+  {
+    "id": "voc_167",
+    "word": "Interpret",
+    "meaning": "ব্যাখ্যা করা",
+    "example": "He interpreted the data correctly."
+  },
+  {
+    "id": "voc_168",
+    "word": "Intervene",
+    "meaning": "হস্তক্ষেপ করা",
+    "example": "The police intervened quickly."
+  },
+  {
+    "id": "voc_169",
+    "word": "Intricate",
+    "meaning": "জটিল",
+    "example": "The design is intricate."
+  },
+  {
+    "id": "voc_170",
+    "word": "Intrinsic",
+    "meaning": "মৌলিক/অভ্যন্তরীণ",
+    "example": "Freedom is intrinsic to human life."
+  },
+  {
+    "id": "voc_171",
+    "word": "Investigate",
+    "meaning": "তদন্ত করা",
+    "example": "The police investigated the crime."
+  },
+  {
+    "id": "voc_172",
+    "word": "Invoke",
+    "meaning": "আহ্বান করা",
+    "example": "He invoked his rights."
+  },
+  {
+    "id": "voc_173",
+    "word": "Involve",
+    "meaning": "জড়িত করা",
+    "example": "The task involves teamwork."
+  },
+  {
+    "id": "voc_174",
+    "word": "Isolate",
+    "meaning": "বিচ্ছিন্ন করা",
+    "example": "The patient was isolated."
+  },
+  {
+    "id": "voc_175",
+    "word": "Justify",
+    "meaning": "ন্যায্যতা প্রমাণ করা",
+    "example": "He justified his decision."
+  },
+  {
+    "id": "voc_176",
+    "word": "Legislate",
+    "meaning": "আইন প্রণয়ন করা",
+    "example": "The government legislated new reforms."
+  },
+  {
+    "id": "voc_177",
+    "word": "Leverage",
+    "meaning": "সুযোগ গ্রহণ করা",
+    "example": "They leveraged technology to grow fast."
+  },
+  {
+    "id": "voc_178",
+    "word": "Liable",
+    "meaning": "দায়বদ্ধ",
+    "example": "He is liable for damages."
+  },
+  {
+    "id": "voc_179",
+    "word": "Lobby",
+    "meaning": "চাপ প্রয়োগ করা",
+    "example": "They lobbied for a new law."
+  },
+  {
+    "id": "voc_180",
+    "word": "Manipulate",
+    "meaning": "কৌশলে প্রভাবিত করা",
+    "example": "He manipulated the results."
+  },
+  {
+    "id": "voc_181",
+    "word": "Migrate",
+    "meaning": "অভিবাসন করা",
+    "example": "Birds migrate in winter."
+  },
+  {
+    "id": "voc_182",
+    "word": "Minimize",
+    "meaning": "হ্রাস করা",
+    "example": "Try to minimize the errors."
+  },
+  {
+    "id": "voc_183",
+    "word": "Modify",
+    "meaning": "পরিবর্তন করা",
+    "example": "They modified the design."
+  },
+  {
+    "id": "voc_184",
+    "word": "Motive",
+    "meaning": "উদ্দেশ্য",
+    "example": "His motive was unclear."
+  },
+  {
+    "id": "voc_185",
+    "word": "Neglect",
+    "meaning": "উপেক্ষা করা",
+    "example": "He neglected his duties."
+  },
+  {
+    "id": "voc_186",
+    "word": "Notion",
+    "meaning": "ধারণা",
+    "example": "He had a wrong notion about it."
+  },
+  {
+    "id": "voc_187",
+    "word": "Oblige",
+    "meaning": "বাধ্য করা",
+    "example": "They were obliged to follow the rules."
+  },
+  {
+    "id": "voc_188",
+    "word": "Obscure",
+    "meaning": "অস্পষ্ট",
+    "example": "The meaning is obscure."
+  },
+  {
+    "id": "voc_189",
+    "word": "Obtain",
+    "meaning": "প্রাপ্ত হওয়া",
+    "example": "He obtained the certificate."
+  },
+  {
+    "id": "voc_190",
+    "word": "Occupy",
+    "meaning": "দখল করা",
+    "example": "The army occupied the area."
+  },
+  {
+    "id": "voc_191",
+    "word": "Omit",
+    "meaning": "অপসারণ করা",
+    "example": "Do not omit any details."
+  },
+  {
+    "id": "voc_192",
+    "word": "Oppose",
+    "meaning": "বিরোধিতা করা",
+    "example": "They opposed the plan."
+  },
+  {
+    "id": "voc_193",
+    "word": "Optimize",
+    "meaning": "উন্নত করা",
+    "example": "Optimize your workflow."
+  },
+  {
+    "id": "voc_194",
+    "word": "Orbit",
+    "meaning": "পরিক্রমণ করা",
+    "example": "The Moon orbits the Earth."
+  },
+  {
+    "id": "voc_195",
+    "word": "Outcome",
+    "meaning": "ফলাফল",
+    "example": "The outcome was surprising."
+  },
+  {
+    "id": "voc_196",
+    "word": "Outweigh",
+    "meaning": "বেশি গুরুত্বপূর্ণ হওয়া",
+    "example": "The benefits outweigh the risks."
+  },
+  {
+    "id": "voc_197",
+    "word": "Overcome",
+    "meaning": "জয় করা",
+    "example": "He overcame all obstacles."
+  },
+  {
+    "id": "voc_198",
+    "word": "Overwhelm",
+    "meaning": "পরাভূত করা",
+    "example": "She was overwhelmed with emotion."
+  },
+  {
+    "id": "voc_199",
+    "word": "Paradigm",
+    "meaning": "নমুনা/ধারণা",
+    "example": "A new paradigm emerged."
+  },
+  {
+    "id": "voc_200",
+    "word": "Parameter",
+    "meaning": "সীমানা",
+    "example": "The study has strict parameters."
+  }
+]
