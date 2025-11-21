@@ -1,0 +1,2003 @@
+[
+  {
+    "id": "voc_001",
+    "word": "Abandon",
+    "meaning": "ত্যাগ করা",
+    "example": "He had to abandon his car."
+  },
+  {
+    "id": "voc_002",
+    "word": "Abstract",
+    "meaning": "বিমূর্ত",
+    "example": "Abstract art can be difficult to understand."
+  },
+  {
+    "id": "voc_003",
+    "word": "Abundant",
+    "meaning": "প্রচুর",
+    "example": "The country has abundant natural resources."
+  },
+  {
+    "id": "voc_004",
+    "word": "Accurate",
+    "meaning": "সঠিক",
+    "example": "Ensure the information is accurate."
+  },
+  {
+    "id": "voc_005",
+    "word": "Achieve",
+    "meaning": "অর্জন করা",
+    "example": "She hopes to achieve her goals."
+  },
+  {
+    "id": "voc_006",
+    "word": "Acquire",
+    "meaning": "অর্জন করা/লাভ করা",
+    "example": "They acquired a new property."
+  },
+  {
+    "id": "voc_007",
+    "word": "Adapt",
+    "meaning": "অভিযোজিত করা",
+    "example": "Animals adapt to their environment."
+  },
+  {
+    "id": "voc_008",
+    "word": "Adequate",
+    "meaning": "পর্যাপ্ত",
+    "example": "The food supply was barely adequate."
+  },
+  {
+    "id": "voc_009",
+    "word": "Adjacent",
+    "meaning": "সংলগ্ন",
+    "example": "The library is adjacent to the park."
+  },
+  {
+    "id": "voc_010",
+    "word": "Adjust",
+    "meaning": "সামঞ্জস্য করা",
+    "example": "Adjust the seat for comfort."
+  },
+  {
+    "id": "voc_011",
+    "word": "Admire",
+    "meaning": "প্রশংসা করা",
+    "example": "I admire her courage."
+  },
+  {
+    "id": "voc_012",
+    "word": "Advantage",
+    "meaning": "সুবিধা",
+    "example": "This gives us a clear advantage."
+  },
+  {
+    "id": "voc_013",
+    "word": "Adversity",
+    "meaning": "দুর্ভাগ্য",
+    "example": "He faced many adversities."
+  },
+  {
+    "id": "voc_014",
+    "word": "Affluent",
+    "meaning": "ধনী",
+    "example": "An affluent neighborhood."
+  },
+  {
+    "id": "voc_015",
+    "word": "Aggravate",
+    "meaning": "খারাপ করা",
+    "example": "Noise can aggravate a headache."
+  },
+  {
+    "id": "voc_016",
+    "word": "Allocate",
+    "meaning": "বন্টন করা",
+    "example": "Allocate funds for the project."
+  },
+  {
+    "id": "voc_017",
+    "word": "Alter",
+    "meaning": "পরিবর্তন করা",
+    "example": "The plan was altered slightly."
+  },
+  {
+    "id": "voc_018",
+    "word": "Ambitious",
+    "meaning": "উচ্চাকাঙ্ক্ষী",
+    "example": "She is an ambitious student."
+  },
+  {
+    "id": "voc_019",
+    "word": "Amplify",
+    "meaning": "বৃদ্ধি করা",
+    "example": "Amplify the sound."
+  },
+  {
+    "id": "voc_020",
+    "word": "Ancient",
+    "meaning": "প্রাচীন",
+    "example": "Ancient civilizations are fascinating."
+  },
+  {
+    "id": "voc_021",
+    "word": "Anomaly",
+    "meaning": "ব্যতিক্রম",
+    "example": "His success was an anomaly."
+  },
+  {
+    "id": "voc_022",
+    "word": "Anticipate",
+    "meaning": "প্রত্যাশা করা",
+    "example": "We anticipate a good outcome."
+  },
+  {
+    "id": "voc_023",
+    "word": "Apparent",
+    "meaning": "স্পষ্ট",
+    "example": "It was apparent that she was tired."
+  },
+  {
+    "id": "voc_024",
+    "word": "Approach",
+    "meaning": "কাছে আসা/পদ্ধতি",
+    "example": "The approach to the problem was innovative."
+  },
+  {
+    "id": "voc_025",
+    "word": "Arbitrary",
+    "meaning": "খেয়ালী",
+    "example": "The decision was arbitrary."
+  },
+  {
+    "id": "voc_026",
+    "word": "Articulate",
+    "meaning": "স্পষ্টভাবে প্রকাশ করা",
+    "example": "He articulated his thoughts clearly."
+  },
+  {
+    "id": "voc_027",
+    "word": "Assert",
+    "meaning": "দাবি করা",
+    "example": "She asserted her independence."
+  },
+  {
+    "id": "voc_028",
+    "word": "Assess",
+    "meaning": "মূল্যায়ন করা",
+    "example": "Assess the situation carefully."
+  },
+  {
+    "id": "voc_029",
+    "word": "Assimilate",
+    "meaning": "একীভূত করা",
+    "example": "Children can assimilate new information quickly."
+  },
+  {
+    "id": "voc_030",
+    "word": "Assume",
+    "meaning": "অনুমান করা",
+    "example": "Don't assume the worst."
+  },
+  {
+    "id": "voc_031",
+    "word": "Attain",
+    "meaning": "লাভ করা",
+    "example": "He attained his goals."
+  },
+  {
+    "id": "voc_032",
+    "word": "Attribute",
+    "meaning": "গুণ",
+    "example": "Patience is an important attribute."
+  },
+  {
+    "id": "voc_033",
+    "word": "Authentic",
+    "meaning": "প্রামাণিক",
+    "example": "An authentic antique piece."
+  },
+  {
+    "id": "voc_034",
+    "word": "Avert",
+    "meaning": "এড়ানো",
+    "example": "Avert a disaster."
+  },
+  {
+    "id": "voc_035",
+    "word": "Aware",
+    "meaning": "সচেতন",
+    "example": "Be aware of your surroundings."
+  },
+  {
+    "id": "voc_036",
+    "word": "Balance",
+    "meaning": "ভারসাম্য",
+    "example": "Maintain a healthy work-life balance."
+  },
+  {
+    "id": "voc_037",
+    "word": "Beneficial",
+    "meaning": "উপকারী",
+    "example": "Exercise is beneficial for health."
+  },
+  {
+    "id": "voc_038",
+    "word": "Bias",
+    "meaning": "পক্ষপাত",
+    "example": "Avoid personal bias."
+  },
+  {
+    "id": "voc_039",
+    "word": "Boisterous",
+    "meaning": "প্রবল/গোলমেলে",
+    "example": "A boisterous crowd."
+  },
+  {
+    "id": "voc_040",
+    "word": "Brevity",
+    "meaning": "সংক্ষিপ্ততা",
+    "example": "The brevity of the speech was appreciated."
+  },
+  {
+    "id": "voc_041",
+    "word": "Capable",
+    "meaning": "সক্ষম",
+    "example": "He is capable of doing the job."
+  },
+  {
+    "id": "voc_042",
+    "word": "Captivate",
+    "meaning": "মনোমুগ্ধ করা",
+    "example": "Her singing captivated the audience."
+  },
+  {
+    "id": "voc_043",
+    "word": "Catastrophe",
+    "meaning": "মহাবিপদ",
+    "example": "The earthquake was a catastrophe."
+  },
+  {
+    "id": "voc_044",
+    "word": "Cautious",
+    "meaning": "সতর্ক",
+    "example": "Be cautious when driving."
+  },
+  {
+    "id": "voc_045",
+    "word": "Cease",
+    "meaning": "বন্ধ করা",
+    "example": "The rain ceased suddenly."
+  },
+  {
+    "id": "voc_046",
+    "word": "Challenge",
+    "meaning": "চ্যালেঞ্জ/চ্যালেঞ্জ করা",
+    "example": "It was a challenging task."
+  },
+  {
+    "id": "voc_047",
+    "word": "Characteristic",
+    "meaning": "বৈশিষ্ট্য",
+    "example": "A unique characteristic of the species."
+  },
+  {
+    "id": "voc_048",
+    "word": "Circumstance",
+    "meaning": "পরিস্থিতি",
+    "example": "Under no circumstances."
+  },
+  {
+    "id": "voc_049",
+    "word": "Clarify",
+    "meaning": "পরিষ্কার করা",
+    "example": "Please clarify your statement."
+  },
+  {
+    "id": "voc_050",
+    "word": "Coherent",
+    "meaning": "সংহত/সুসংবদ্ধ",
+    "example": "A coherent argument."
+  },
+  {
+    "id": "voc_051",
+    "word": "Coincide",
+    "meaning": "মিলে যাওয়া",
+    "example": "Our opinions often coincide."
+  },
+  {
+    "id": "voc_052",
+    "word": "Collapse",
+    "meaning": "ধসে পড়া",
+    "example": "The building collapsed."
+  },
+  {
+    "id": "voc_053",
+    "word": "Commence",
+    "meaning": "শুরু করা",
+    "example": "The meeting commenced at 9 AM."
+  },
+  {
+    "id": "voc_054",
+    "word": "Compatible",
+    "meaning": "সামঞ্জস্যপূর্ণ",
+    "example": "The software is compatible with your system."
+  },
+  {
+    "id": "voc_055",
+    "word": "Compel",
+    "meaning": "বাধ্য করা",
+    "example": "He was compelled to resign."
+  },
+  {
+    "id": "voc_056",
+    "word": "Competent",
+    "meaning": "সক্ষম/যোগ্য",
+    "example": "A competent lawyer."
+  },
+  {
+    "id": "voc_057",
+    "word": "Comprehend",
+    "meaning": "বোঝা",
+    "example": "He failed to comprehend the instructions."
+  },
+  {
+    "id": "voc_058",
+    "word": "Comprise",
+    "meaning": "গঠিত হওয়া",
+    "example": "The team comprises five members."
+  },
+  {
+    "id": "voc_059",
+    "word": "Conceive",
+    "meaning": "ধারণা করা/কল্পনা করা",
+    "example": "He conceived a new plan."
+  },
+  {
+    "id": "voc_060",
+    "word": "Concise",
+    "meaning": "সংক্ষিপ্ত",
+    "example": "A concise summary."
+  },
+  {
+    "id": "voc_061",
+    "word": "Concur",
+    "meaning": "একমত হওয়া",
+    "example": "I concur with your opinion."
+  },
+  {
+    "id": "voc_062",
+    "word": "Confine",
+    "meaning": "সীমিত করা",
+    "example": "Confine your remarks to the topic."
+  },
+  {
+    "id": "voc_063",
+    "word": "Confirm",
+    "meaning": "নিশ্চিত করা",
+    "example": "Confirm your booking."
+  },
+  {
+    "id": "voc_064",
+    "word": "Confront",
+    "meaning": "সম্মুখীন হওয়া",
+    "example": "He confronted his accusers."
+  },
+  {
+    "id": "voc_065",
+    "word": "Conjecture",
+    "meaning": "অনুমান",
+    "example": "His theory was based on conjecture."
+  },
+  {
+    "id": "voc_066",
+    "word": "Consecutive",
+    "meaning": "ক্রমিক",
+    "example": "Five consecutive wins."
+  },
+  {
+    "id": "voc_067",
+    "word": "Consequence",
+    "meaning": "পরিণতি",
+    "example": "The consequences of his actions."
+  },
+  {
+    "id": "voc_068",
+    "word": "Conserve",
+    "meaning": "সংরক্ষণ করা",
+    "example": "Conserve energy."
+  },
+  {
+    "id": "voc_069",
+    "word": "Consistent",
+    "meaning": "সঙ্গতিপূর্ণ",
+    "example": "Consistent effort is key to success."
+  },
+  {
+    "id": "voc_070",
+    "word": "Constrain",
+    "meaning": "বাধ্য করা/সংকুচিত করা",
+    "example": "Constrained by lack of funds."
+  },
+  {
+    "id": "voc_071",
+    "word": "Contemplate",
+    "meaning": "চিন্তা করা",
+    "example": "Contemplate the future."
+  },
+  {
+    "id": "voc_072",
+    "word": "Contend",
+    "meaning": "প্রতিদ্বন্দ্বিতা করা/দাবি করা",
+    "example": "He contended for the championship."
+  },
+  {
+    "id": "voc_073",
+    "word": "Context",
+    "meaning": "প্রসঙ্গ",
+    "example": "Understand the context of the sentence."
+  },
+  {
+    "id": "voc_074",
+    "word": "Contradict",
+    "meaning": "বিরোধিতা করা",
+    "example": "Their statements contradict each other."
+  },
+  {
+    "id": "voc_075",
+    "word": "Convene",
+    "meaning": "সভা আহ্বান করা",
+    "example": "The committee convened yesterday."
+  },
+  {
+    "id": "voc_076",
+    "word": "Converge",
+    "meaning": "একত্রিত হওয়া",
+    "example": "The roads converge at the bridge."
+  },
+  {
+    "id": "voc_077",
+    "word": "Crucial",
+    "meaning": "গুরুত্বপূর্ণ",
+    "example": "It's crucial to make the right decision."
+  },
+  {
+    "id": "voc_078",
+    "word": "Culminate",
+    "meaning": "চূড়ান্ত পরিণতি লাভ করা",
+    "example": "The events culminated in a major conflict."
+  },
+  {
+    "id": "voc_079",
+    "word": "Decline",
+    "meaning": "হ্রাস করা/প্রত্যাখ্যান করা",
+    "example": "His health declined rapidly."
+  },
+  {
+    "id": "voc_080",
+    "word": "Deduce",
+    "meaning": "উপসংহার করা",
+    "example": "We can deduce the answer from the evidence."
+  },
+  {
+    "id": "voc_081",
+    "word": "Deficient",
+    "meaning": "ঘাটতিপূর্ণ",
+    "example": "He is deficient in vitamins."
+  },
+  {
+    "id": "voc_082",
+    "word": "Definitive",
+    "meaning": "চূড়ান্ত",
+    "example": "A definitive answer."
+  },
+  {
+    "id": "voc_083",
+    "word": "Delegate",
+    "meaning": "প্রতিনিধি/প্রতিনিধি করা",
+    "example": "Delegate tasks to your team members."
+  },
+  {
+    "id": "voc_084",
+    "word": "Demolish",
+    "meaning": "ধ্বংস করা",
+    "example": "The old building was demolished."
+  },
+  {
+    "id": "voc_085",
+    "word": "Denounce",
+    "meaning": "নিন্দা করা",
+    "example": "He denounced the corruption."
+  },
+  {
+    "id": "voc_086",
+    "word": "Depict",
+    "meaning": "চিত্রিত করা",
+    "example": "The painting depicts a historical event."
+  },
+  {
+    "id": "voc_087",
+    "word": "Deplete",
+    "meaning": "ক্ষয় করা",
+    "example": "Deplete the resources."
+  },
+  {
+    "id": "voc_088",
+    "word": "Derive",
+    "meaning": "উত্থাপন করা",
+    "example": "He derives pleasure from reading."
+  },
+  {
+    "id": "voc_089",
+    "word": "Designate",
+    "meaning": "মনোনীত করা",
+    "example": "Designate a meeting point."
+  },
+  {
+    "id": "voc_090",
+    "word": "Detain",
+    "meaning": "আটক করা",
+    "example": "The suspect was detained by the police."
+  },
+  {
+    "id": "voc_091",
+    "word": "Deteriorate",
+    "meaning": "খারাপ হওয়া",
+    "example": "His condition began to deteriorate."
+  },
+  {
+    "id": "voc_092",
+    "word": "Devastate",
+    "meaning": "ধ্বংস করা",
+    "example": "The flood devastated the town."
+  },
+  {
+    "id": "voc_093",
+    "word": "Devise",
+    "meaning": "উদ্ভাবন করা",
+    "example": "Devise a plan."
+  },
+  {
+    "id": "voc_094",
+    "word": "Differentiate",
+    "meaning": "পার্থক্য করা",
+    "example": "Differentiate between fact and opinion."
+  },
+  {
+    "id": "voc_095",
+    "word": "Diligent",
+    "meaning": "পরিশ্রমী",
+    "example": "Diligent students often get good grades."
+  },
+  {
+    "id": "voc_096",
+    "word": "Diminish",
+    "meaning": "হ্রাস করা",
+    "example": "The pain slowly diminished."
+  },
+  {
+    "id": "voc_097",
+    "word": "Discern",
+    "meaning": "উপলব্ধি করা",
+    "example": "It's hard to discern the truth."
+  },
+  {
+    "id": "voc_098",
+    "word": "Discrepancy",
+    "meaning": "অমিল",
+    "example": "There was a discrepancy in the accounts."
+  },
+  {
+    "id": "voc_099",
+    "word": "Disseminate",
+    "meaning": "ছড়িয়ে দেওয়া",
+    "example": "Disseminate information widely."
+  },
+  {
+    "id": "voc_100",
+    "word": "Distinct",
+    "meaning": "আলাদা/স্বতন্ত্র",
+    "example": "Two distinct categories."
+  },
+  {
+    "id": "voc_101",
+    "word": "Distort",
+    "meaning": "বিকৃত করা",
+    "example": "The media distorted the facts."
+  },
+  {
+    "id": "voc_102",
+    "word": "Diverse",
+    "meaning": "বৈচিত্র্যময়",
+    "example": "The city has a diverse population."
+  },
+  {
+    "id": "voc_103",
+    "word": "Divert",
+    "meaning": "মোড় ঘোরানো/মনোযোগ সরানো",
+    "example": "The police diverted the traffic."
+  },
+  {
+    "id": "voc_104",
+    "word": "Dominate",
+    "meaning": "প্রভাব বিস্তার করা",
+    "example": "He dominated the match."
+  },
+  {
+    "id": "voc_105",
+    "word": "Dormant",
+    "meaning": "সুপ্ত",
+    "example": "The volcano has been dormant for years."
+  },
+  {
+    "id": "voc_106",
+    "word": "Emerge",
+    "meaning": "উদ্ভব হওয়া",
+    "example": "A new leader emerged."
+  },
+  {
+    "id": "voc_107",
+    "word": "Emphasize",
+    "meaning": "জোর দেয়া",
+    "example": "She emphasized the importance of education."
+  },
+  {
+    "id": "voc_108",
+    "word": "Empirical",
+    "meaning": "প্রায়োগিক",
+    "example": "The theory is based on empirical evidence."
+  },
+  {
+    "id": "voc_109",
+    "word": "Endeavor",
+    "meaning": "প্রচেষ্টা",
+    "example": "He endeavored to improve his skills."
+  },
+  {
+    "id": "voc_110",
+    "word": "Endure",
+    "meaning": "সহ্য করা",
+    "example": "He endured the hardship bravely."
+  },
+  {
+    "id": "voc_111",
+    "word": "Engage",
+    "meaning": "যুক্ত হওয়া",
+    "example": "Students engaged in group work."
+  },
+  {
+    "id": "voc_112",
+    "word": "Enhance",
+    "meaning": "উন্নত করা",
+    "example": "The new features enhance the app."
+  },
+  {
+    "id": "voc_113",
+    "word": "Enormous",
+    "meaning": "বিশাল",
+    "example": "The project requires enormous effort."
+  },
+  {
+    "id": "voc_114",
+    "word": "Ensure",
+    "meaning": "সুনিশ্চিত করা",
+    "example": "Ensure the safety of all passengers."
+  },
+  {
+    "id": "voc_115",
+    "word": "Entail",
+    "meaning": "জড়িত করা",
+    "example": "The job entails a lot of responsibility."
+  },
+  {
+    "id": "voc_116",
+    "word": "Entity",
+    "meaning": "সত্তা",
+    "example": "The company became a separate entity."
+  },
+  {
+    "id": "voc_117",
+    "word": "Enumerate",
+    "meaning": "এক এক করে উল্লেখ করা",
+    "example": "She enumerated the reasons."
+  },
+  {
+    "id": "voc_118",
+    "word": "Equivalent",
+    "meaning": "সমতুল্য",
+    "example": "One dollar is equivalent to 100 cents."
+  },
+  {
+    "id": "voc_119",
+    "word": "Erupt",
+    "meaning": "উদ্গীরণ হওয়া",
+    "example": "The volcano erupted violently."
+  },
+  {
+    "id": "voc_120",
+    "word": "Establish",
+    "meaning": "প্রতিষ্ঠা করা",
+    "example": "They established a new company."
+  },
+  {
+    "id": "voc_121",
+    "word": "Evaluate",
+    "meaning": "মূল্যায়ন করা",
+    "example": "Evaluate the effectiveness of the plan."
+  },
+  {
+    "id": "voc_122",
+    "word": "Evident",
+    "meaning": "স্পষ্ট",
+    "example": "It is evident that he is lying."
+  },
+  {
+    "id": "voc_123",
+    "word": "Exceed",
+    "meaning": "অতিক্রম করা",
+    "example": "The results exceeded expectations."
+  },
+  {
+    "id": "voc_124",
+    "word": "Exclude",
+    "meaning": "বর্জন করা",
+    "example": "They excluded him from the team."
+  },
+  {
+    "id": "voc_125",
+    "word": "Explicit",
+    "meaning": "স্পষ্ট/পরিষ্কার",
+    "example": "She gave explicit instructions."
+  },
+  {
+    "id": "voc_126",
+    "word": "Exploit",
+    "meaning": "শোষণ করা/উপযোগ করা",
+    "example": "They exploited natural resources."
+  },
+  {
+    "id": "voc_127",
+    "word": "Expose",
+    "meaning": "উন্মোচন করা",
+    "example": "The investigation exposed the truth."
+  },
+  {
+    "id": "voc_128",
+    "word": "Extend",
+    "meaning": "বর্ধিত করা",
+    "example": "They extended the deadline."
+  },
+  {
+    "id": "voc_129",
+    "word": "Extract",
+    "meaning": "উদ্ধার করা",
+    "example": "They extracted gold from the mine."
+  },
+  {
+    "id": "voc_130",
+    "word": "Fascinate",
+    "meaning": "মুগ্ধ করা",
+    "example": "Space always fascinates children."
+  },
+  {
+    "id": "voc_131",
+    "word": "Feasible",
+    "meaning": "সম্ভব",
+    "example": "The plan seems feasible."
+  },
+  {
+    "id": "voc_132",
+    "word": "Fluctuate",
+    "meaning": "উত্থান-পতন হওয়া",
+    "example": "Prices fluctuate daily."
+  },
+  {
+    "id": "voc_133",
+    "word": "Formulate",
+    "meaning": "রচনা করা",
+    "example": "They formulated a new policy."
+  },
+  {
+    "id": "voc_134",
+    "word": "Fortify",
+    "meaning": "শক্তিশালী করা",
+    "example": "They fortified the walls."
+  },
+  {
+    "id": "voc_135",
+    "word": "Foster",
+    "meaning": "উত্সাহিত করা/লালন পালন করা",
+    "example": "Parents should foster creativity."
+  },
+  {
+    "id": "voc_136",
+    "word": "Generate",
+    "meaning": "উৎপন্ন করা",
+    "example": "Solar panels generate electricity."
+  },
+  {
+    "id": "voc_137",
+    "word": "Grasp",
+    "meaning": "আয়ত্ত করা",
+    "example": "He couldn't grasp the concept."
+  },
+  {
+    "id": "voc_138",
+    "word": "Hamper",
+    "meaning": "বাধা দেয়া",
+    "example": "Heavy rain hampered progress."
+  },
+  {
+    "id": "voc_139",
+    "word": "Harsh",
+    "meaning": "কঠোর",
+    "example": "The weather was harsh."
+  },
+  {
+    "id": "voc_140",
+    "word": "Hostile",
+    "meaning": "শত্রুতাপূর্ণ",
+    "example": "The environment was hostile."
+  },
+  {
+    "id": "voc_141",
+    "word": "Hypothesis",
+    "meaning": "সম্ভাব্য তত্ত্ব",
+    "example": "The scientist proposed a hypothesis."
+  },
+  {
+    "id": "voc_142",
+    "word": "Identical",
+    "meaning": "একই/অবিকল",
+    "example": "The twins look identical."
+  },
+  {
+    "id": "voc_143",
+    "word": "Illuminate",
+    "meaning": "আলোকিত করা",
+    "example": "Street lights illuminate the road."
+  },
+  {
+    "id": "voc_144",
+    "word": "Illustrate",
+    "meaning": "উদাহরণসহ ব্যাখ্যা করা",
+    "example": "The teacher illustrated the point clearly."
+  },
+  {
+    "id": "voc_145",
+    "word": "Imitate",
+    "meaning": "অনুকরণ করা",
+    "example": "Children imitate adults."
+  },
+  {
+    "id": "voc_146",
+    "word": "Immense",
+    "meaning": "অপরিমেয়",
+    "example": "He has immense talent."
+  },
+  {
+    "id": "voc_147",
+    "word": "Impair",
+    "meaning": "ক্ষতি করা",
+    "example": "Smoking can impair health."
+  },
+  {
+    "id": "voc_148",
+    "word": "Implement",
+    "meaning": "বাস্তবায়ন করা",
+    "example": "They implemented the new rules."
+  },
+  {
+    "id": "voc_149",
+    "word": "Implicit",
+    "meaning": "অস্ফুট/পরোক্ষ",
+    "example": "He has implicit trust in her."
+  },
+  {
+    "id": "voc_150",
+    "word": "Impose",
+    "meaning": "আরোপ করা",
+    "example": "The government imposed new taxes."
+  },
+  {
+    "id": "voc_151",
+    "word": "Incentive",
+    "meaning": "প্রণোদনা",
+    "example": "They offered incentives to employees."
+  },
+  {
+    "id": "voc_152",
+    "word": "Incorporate",
+    "meaning": "অন্তর্ভুক্ত করা",
+    "example": "The design incorporates modern elements."
+  },
+  {
+    "id": "voc_153",
+    "word": "Indicate",
+    "meaning": "ইঙ্গিত করা",
+    "example": "His gesture indicated approval."
+  },
+  {
+    "id": "voc_154",
+    "word": "Induce",
+    "meaning": "প্ররোচিত করা",
+    "example": "The medicine induced sleep."
+  },
+  {
+    "id": "voc_155",
+    "word": "Inevitable",
+    "meaning": "অনিবার্য",
+    "example": "Death is inevitable."
+  },
+  {
+    "id": "voc_156",
+    "word": "Infer",
+    "meaning": "অনুমান করা",
+    "example": "We can infer that he is tired."
+  },
+  {
+    "id": "voc_157",
+    "word": "Inflate",
+    "meaning": "ফুলিয়ে তোলা",
+    "example": "They inflated the balloon."
+  },
+  {
+    "id": "voc_158",
+    "word": "Influence",
+    "meaning": "প্রভাব",
+    "example": "Parents influence children greatly."
+  },
+  {
+    "id": "voc_159",
+    "word": "Inhibit",
+    "meaning": "দমন করা",
+    "example": "Fear can inhibit progress."
+  },
+  {
+    "id": "voc_160",
+    "word": "Initiate",
+    "meaning": "শুরু করা",
+    "example": "They initiated the project."
+  },
+  {
+    "id": "voc_161",
+    "word": "Innovate",
+    "meaning": "উদ্ভাবন করা",
+    "example": "The company continues to innovate."
+  },
+  {
+    "id": "voc_162",
+    "word": "Insight",
+    "meaning": "অন্তর্দৃষ্টি",
+    "example": "She gained insight into the issue."
+  },
+  {
+    "id": "voc_163",
+    "word": "Inspect",
+    "meaning": "পরিদর্শন করা",
+    "example": "The officer inspected the site."
+  },
+  {
+    "id": "voc_164",
+    "word": "Inspire",
+    "meaning": "অনুপ্রাণিত করা",
+    "example": "His speech inspired the crowd."
+  },
+  {
+    "id": "voc_165",
+    "word": "Integrate",
+    "meaning": "একীভূত করা",
+    "example": "They integrated new features."
+  },
+  {
+    "id": "voc_166",
+    "word": "Intense",
+    "meaning": "তীব্র",
+    "example": "The heat was intense."
+  },
+  {
+    "id": "voc_167",
+    "word": "Interpret",
+    "meaning": "ব্যাখ্যা করা",
+    "example": "He interpreted the data correctly."
+  },
+  {
+    "id": "voc_168",
+    "word": "Intervene",
+    "meaning": "হস্তক্ষেপ করা",
+    "example": "The police intervened quickly."
+  },
+  {
+    "id": "voc_169",
+    "word": "Intricate",
+    "meaning": "জটিল",
+    "example": "The design is intricate."
+  },
+  {
+    "id": "voc_170",
+    "word": "Intrinsic",
+    "meaning": "মৌলিক/অভ্যন্তরীণ",
+    "example": "Freedom is intrinsic to human life."
+  },
+  {
+    "id": "voc_171",
+    "word": "Investigate",
+    "meaning": "তদন্ত করা",
+    "example": "The police investigated the crime."
+  },
+  {
+    "id": "voc_172",
+    "word": "Invoke",
+    "meaning": "আহ্বান করা",
+    "example": "He invoked his rights."
+  },
+  {
+    "id": "voc_173",
+    "word": "Involve",
+    "meaning": "জড়িত করা",
+    "example": "The task involves teamwork."
+  },
+  {
+    "id": "voc_174",
+    "word": "Isolate",
+    "meaning": "বিচ্ছিন্ন করা",
+    "example": "The patient was isolated."
+  },
+  {
+    "id": "voc_175",
+    "word": "Justify",
+    "meaning": "ন্যায্যতা প্রমাণ করা",
+    "example": "He justified his decision."
+  },
+  {
+    "id": "voc_176",
+    "word": "Legislate",
+    "meaning": "আইন প্রণয়ন করা",
+    "example": "The government legislated new reforms."
+  },
+  {
+    "id": "voc_177",
+    "word": "Leverage",
+    "meaning": "সুযোগ গ্রহণ করা",
+    "example": "They leveraged technology to grow fast."
+  },
+  {
+    "id": "voc_178",
+    "word": "Liable",
+    "meaning": "দায়বদ্ধ",
+    "example": "He is liable for damages."
+  },
+  {
+    "id": "voc_179",
+    "word": "Lobby",
+    "meaning": "চাপ প্রয়োগ করা",
+    "example": "They lobbied for a new law."
+  },
+  {
+    "id": "voc_180",
+    "word": "Manipulate",
+    "meaning": "কৌশলে প্রভাবিত করা",
+    "example": "He manipulated the results."
+  },
+  {
+    "id": "voc_181",
+    "word": "Migrate",
+    "meaning": "অভিবাসন করা",
+    "example": "Birds migrate in winter."
+  },
+  {
+    "id": "voc_182",
+    "word": "Minimize",
+    "meaning": "হ্রাস করা",
+    "example": "Try to minimize the errors."
+  },
+  {
+    "id": "voc_183",
+    "word": "Modify",
+    "meaning": "পরিবর্তন করা",
+    "example": "They modified the design."
+  },
+  {
+    "id": "voc_184",
+    "word": "Motive",
+    "meaning": "উদ্দেশ্য",
+    "example": "His motive was unclear."
+  },
+  {
+    "id": "voc_185",
+    "word": "Neglect",
+    "meaning": "উপেক্ষা করা",
+    "example": "He neglected his duties."
+  },
+  {
+    "id": "voc_186",
+    "word": "Notion",
+    "meaning": "ধারণা",
+    "example": "He had a wrong notion about it."
+  },
+  {
+    "id": "voc_187",
+    "word": "Oblige",
+    "meaning": "বাধ্য করা",
+    "example": "They were obliged to follow the rules."
+  },
+  {
+    "id": "voc_188",
+    "word": "Obscure",
+    "meaning": "অস্পষ্ট",
+    "example": "The meaning is obscure."
+  },
+  {
+    "id": "voc_189",
+    "word": "Obtain",
+    "meaning": "প্রাপ্ত হওয়া",
+    "example": "He obtained the certificate."
+  },
+  {
+    "id": "voc_190",
+    "word": "Occupy",
+    "meaning": "দখল করা",
+    "example": "The army occupied the area."
+  },
+  {
+    "id": "voc_191",
+    "word": "Omit",
+    "meaning": "অপসারণ করা",
+    "example": "Do not omit any details."
+  },
+  {
+    "id": "voc_192",
+    "word": "Oppose",
+    "meaning": "বিরোধিতা করা",
+    "example": "They opposed the plan."
+  },
+  {
+    "id": "voc_193",
+    "word": "Optimize",
+    "meaning": "উন্নত করা",
+    "example": "Optimize your workflow."
+  },
+  {
+    "id": "voc_194",
+    "word": "Orbit",
+    "meaning": "পরিক্রমণ করা",
+    "example": "The Moon orbits the Earth."
+  },
+  {
+    "id": "voc_195",
+    "word": "Outcome",
+    "meaning": "ফলাফল",
+    "example": "The outcome was surprising."
+  },
+  {
+    "id": "voc_196",
+    "word": "Outweigh",
+    "meaning": "বেশি গুরুত্বপূর্ণ হওয়া",
+    "example": "The benefits outweigh the risks."
+  },
+  {
+    "id": "voc_197",
+    "word": "Overcome",
+    "meaning": "জয় করা",
+    "example": "He overcame all obstacles."
+  },
+  {
+    "id": "voc_198",
+    "word": "Overwhelm",
+    "meaning": "পরাভূত করা",
+    "example": "She was overwhelmed with emotion."
+  },
+  {
+    "id": "voc_199",
+    "word": "Paradigm",
+    "meaning": "নমুনা/ধারণা",
+    "example": "A new paradigm emerged."
+  },
+  {
+    "id": "voc_200",
+    "word": "Parameter",
+    "meaning": "সীমানা",
+    "example": "The study has strict parameters."
+  },
+  { "id": "voc_201", "word": "Able", "meaning": "ক্ষমতাসম্পন্ন", "example": "She is able to solve the problem." },
+  { "id": "voc_202", "word": "About", "meaning": "সম্পর্কে", "example": "Tell me about your day." },
+  { "id": "voc_203", "word": "Above", "meaning": "উপর", "example": "The picture hangs above the fireplace." },
+  { "id": "voc_204", "word": "Accept", "meaning": "গ্রহণ করা", "example": "I accept your apology." },
+  { "id": "voc_205", "word": "Across", "meaning": "পারে", "example": "She walked across the street." },
+  { "id": "voc_206", "word": "Act", "meaning": "কর্ম/আচরণ করা", "example": "He acted quickly." },
+  { "id": "voc_207", "word": "Add", "meaning": "যোগ করা", "example": "Add sugar to the tea." },
+  { "id": "voc_208", "word": "After", "meaning": "পরবর্তী", "example": "We will meet after lunch." },
+  { "id": "voc_209", "word": "Again", "meaning": "আবার", "example": "Please say that again." },
+  { "id": "voc_210", "word": "Age", "meaning": "বয়স", "example": "What is your age?" },
+  { "id": "voc_211", "word": "Ago", "meaning": "আগে", "example": "He left two days ago." },
+  { "id": "voc_212", "word": "Air", "meaning": "বায়ু", "example": "The air is fresh today." },
+  { "id": "voc_213", "word": "All", "meaning": "সব", "example": "All students must attend." },
+  { "id": "voc_214", "word": "Allow", "meaning": "অনুমতি দেওয়া", "example": "They allowed me to enter." },
+  { "id": "voc_215", "word": "Also", "meaning": "এছাড়াও", "example": "She likes coffee and also tea." },
+  { "id": "voc_216", "word": "Always", "meaning": "সর্বদা", "example": "He always arrives early." },
+  { "id": "voc_217", "word": "Am", "meaning": "আমি (হওয়া)", "example": "I am happy." },
+  { "id": "voc_218", "word": "And", "meaning": "এবং", "example": "Tom and Jerry are friends." },
+  { "id": "voc_219", "word": "Angry", "meaning": "রাগান্বিত", "example": "She is angry with him." },
+  { "id": "voc_220", "word": "Animal", "meaning": "প্রাণী", "example": "Lion is a wild animal." },
+  { "id": "voc_221", "word": "Another", "meaning": "অন্যটি", "example": "I want another piece." },
+  { "id": "voc_222", "word": "Answer", "meaning": "উত্তর", "example": "Please answer the question." },
+  { "id": "voc_223", "word": "Any", "meaning": "যেকোনো", "example": "Do you have any money?" },
+  { "id": "voc_224", "word": "Apple", "meaning": "আপেল", "example": "She eats an apple every day." },
+  { "id": "voc_225", "word": "Around", "meaning": "চারপাশে", "example": "Look around you." },
+  { "id": "voc_226", "word": "Ask", "meaning": "জিজ্ঞাসা করা", "example": "Can I ask you a question?" },
+  { "id": "voc_227", "word": "At", "meaning": "এতে", "example": "Meet me at the park." },
+  { "id": "voc_228", "word": "Away", "meaning": "দূরে", "example": "He went away yesterday." },
+  { "id": "voc_229", "word": "Back", "meaning": "পেছনে", "example": "He came back home." },
+  { "id": "voc_230", "word": "Bad", "meaning": "খারাপ", "example": "This is a bad idea." },
+  { "id": "voc_231", "word": "Bag", "meaning": "ব্যাগ", "example": "She carried a bag." },
+  { "id": "voc_232", "word": "Ball", "meaning": "বল", "example": "He kicked the ball." },
+  { "id": "voc_233", "word": "Bank", "meaning": "ব্যাংক", "example": "I deposited money in the bank." },
+  { "id": "voc_234", "word": "Base", "meaning": "ভিত্তি", "example": "The base of the tower is strong." },
+  { "id": "voc_235", "word": "Be", "meaning": "হওয়া", "example": "I want to be a doctor." },
+  { "id": "voc_236", "word": "Bear", "meaning": "ভালুক", "example": "The bear lives in the forest." },
+  { "id": "voc_237", "word": "Beautiful", "meaning": "সুন্দর", "example": "She is a beautiful girl." },
+  { "id": "voc_238", "word": "Because", "meaning": "কারণ", "example": "I stayed because it rained." },
+  { "id": "voc_239", "word": "Become", "meaning": "হয়ে ওঠা", "example": "He became a teacher." },
+  { "id": "voc_240", "word": "Bed", "meaning": "বিছানা", "example": "I went to bed early." },
+  { "id": "voc_241", "word": "Before", "meaning": "আগে", "example": "Finish your work before dinner." },
+  { "id": "voc_242", "word": "Begin", "meaning": "শুরু করা", "example": "Let's begin the class." },
+  { "id": "voc_243", "word": "Behind", "meaning": "পেছনে", "example": "He is behind the door." },
+  { "id": "voc_244", "word": "Believe", "meaning": "বিশ্বাস করা", "example": "I believe in you." },
+  { "id": "voc_245", "word": "Bell", "meaning": "ঘণ্টি", "example": "The bell rang loudly." },
+  { "id": "voc_246", "word": "Below", "meaning": "নীচে", "example": "The river flows below the bridge." },
+  { "id": "voc_247", "word": "Best", "meaning": "সেরা", "example": "She is the best player." },
+  { "id": "voc_248", "word": "Better", "meaning": "ভাল", "example": "Today is better than yesterday." },
+  { "id": "voc_249", "word": "Between", "meaning": "মধ্যবর্তী", "example": "The park is between the school and bank." },
+  { "id": "voc_250", "word": "Big", "meaning": "বড়", "example": "They live in a big house." },
+  { "id": "voc_251", "word": "Bird", "meaning": "পাখি", "example": "The bird is flying." },
+  { "id": "voc_252", "word": "Birth", "meaning": "জন্ম", "example": "Her birth was celebrated." },
+  { "id": "voc_253", "word": "Bit", "meaning": "একটু", "example": "I need a bit of water." },
+  { "id": "voc_254", "word": "Black", "meaning": "কালো", "example": "He wore a black coat." },
+  { "id": "voc_255", "word": "Block", "meaning": "অবরোধ করা", "example": "They blocked the road." },
+  { "id": "voc_256", "word": "Blood", "meaning": "রক্ত", "example": "The injury caused bleeding." },
+  { "id": "voc_257", "word": "Blue", "meaning": "নীল", "example": "The sky is blue." },
+  { "id": "voc_258", "word": "Board", "meaning": "বোর্ড", "example": "Write on the board." },
+  { "id": "voc_259", "word": "Boat", "meaning": "নৌকা", "example": "We sailed the boat." },
+  { "id": "voc_260", "word": "Body", "meaning": "দেহ", "example": "Exercise is good for the body." },
+  { "id": "voc_261", "word": "Book", "meaning": "বই", "example": "She reads a book every day." },
+  { "id": "voc_262", "word": "Born", "meaning": "জন্মানো", "example": "He was born in 2000." },
+  { "id": "voc_263", "word": "Both", "meaning": "উভয়", "example": "Both are my friends." },
+  { "id": "voc_264", "word": "Box", "meaning": "বাক্স", "example": "Put the toys in the box." },
+  { "id": "voc_265", "word": "Boy", "meaning": "ছেলে", "example": "The boy is playing." },
+  { "id": "voc_266", "word": "Bread", "meaning": "রুটি", "example": "She bought fresh bread." },
+  { "id": "voc_267", "word": "Break", "meaning": "ভাঙ্গা/বিরতি", "example": "He broke the glass." },
+  { "id": "voc_268", "word": "Bring", "meaning": "নেওয়া", "example": "Bring me a glass of water." },
+  { "id": "voc_269", "word": "Brother", "meaning": "ভাই", "example": "My brother is older." },
+  { "id": "voc_270", "word": "Build", "meaning": "তৈরি করা", "example": "They build houses." },
+  { "id": "voc_271", "word": "Burn", "meaning": "দগ্ধ হওয়া", "example": "The fire burned the wood." },
+  { "id": "voc_272", "word": "Bus", "meaning": "বাস", "example": "Take the bus to school." },
+  { "id": "voc_273", "word": "Busy", "meaning": "ব্যস্ত", "example": "She is busy now." },
+  { "id": "voc_274", "word": "But", "meaning": "কিন্তু", "example": "I like it, but it's expensive." },
+  { "id": "voc_275", "word": "Buy", "meaning": "কিনা", "example": "I want to buy a new phone." },
+  { "id": "voc_276", "word": "By", "meaning": "দ্বারা", "example": "The book was written by him." },
+  { "id": "voc_277", "word": "Call", "meaning": "ডাকা/ফোন করা", "example": "Call me later." },
+  { "id": "voc_278", "word": "Can", "meaning": "পারা", "example": "I can swim." },
+  { "id": "voc_279", "word": "Car", "meaning": "গাড়ি", "example": "The car is fast." },
+  { "id": "voc_280", "word": "Card", "meaning": "কার্ড", "example": "She sent me a birthday card." },
+  { "id": "voc_281", "word": "Care", "meaning": "যত্ন", "example": "Take care of yourself." },
+  { "id": "voc_282", "word": "Carry", "meaning": "বহন করা", "example": "Carry the bags carefully." },
+  { "id": "voc_283", "word": "Cat", "meaning": "বিড়াল", "example": "The cat is sleeping." },
+  { "id": "voc_284", "word": "Catch", "meaning": "ধরা", "example": "Catch the ball." },
+  { "id": "voc_285", "word": "Cause", "meaning": "কারণ", "example": "Smoking causes health problems." },
+  { "id": "voc_286", "word": "Center", "meaning": "মধ্যবিন্দু", "example": "Stand in the center." },
+  { "id": "voc_287", "word": "Change", "meaning": "পরিবর্তন", "example": "Change your clothes." },
+  { "id": "voc_288", "word": "Check", "meaning": "পরীক্ষা করা", "example": "Check your answers." },
+  { "id": "voc_289", "word": "Child", "meaning": "শিশু", "example": "The child is playing." },
+  { "id": "voc_290", "word": "Choose", "meaning": "পছন্দ করা", "example": "Choose a book to read." },
+  { "id": "voc_291", "word": "Circle", "meaning": "বৃত্ত", "example": "Draw a circle." },
+  { "id": "voc_292", "word": "City", "meaning": "শহর", "example": "Dhaka is a big city." },
+  { "id": "voc_293", "word": "Class", "meaning": "ক্লাস", "example": "We have math class today." },
+  { "id": "voc_294", "word": "Clean", "meaning": "পরিষ্কার", "example": "Clean your room." },
+  { "id": "voc_295", "word": "Clear", "meaning": "পরিষ্কার", "example": "The sky is clear." },
+  { "id": "voc_296", "word": "Close", "meaning": "বন্ধ করা/কাছাকাছি", "example": "Close the door." },
+  { "id": "voc_297", "word": "Cold", "meaning": "ঠান্ডা", "example": "It is cold today." },
+  { "id": "voc_298", "word": "Color", "meaning": "রঙ", "example": "What is your favorite color?" },
+  { "id": "voc_299", "word": "Come", "meaning": "আসা", "example": "Come here." },
+  { "id": "voc_300", "word": "Common", "meaning": "সাধারণ", "example": "This is a common mistake." },
+  { "id": "voc_301", "word": "Continue", "meaning": "চালিয়ে যাওয়া", "example": "Please continue reading." },
+  { "id": "voc_302", "word": "Control", "meaning": "নিয়ন্ত্রণ করা", "example": "He can control the situation." },
+  { "id": "voc_303", "word": "Cook", "meaning": "রান্না করা", "example": "She likes to cook dinner." },
+  { "id": "voc_304", "word": "Copy", "meaning": "নকল করা", "example": "Please copy this text." },
+  { "id": "voc_305", "word": "Corner", "meaning": "কোণা", "example": "Stand in the corner." },
+  { "id": "voc_306", "word": "Correct", "meaning": "সঠিক", "example": "Your answer is correct." },
+  { "id": "voc_307", "word": "Cost", "meaning": "মূল্য", "example": "How much does it cost?" },
+  { "id": "voc_308", "word": "Could", "meaning": "পারি (অতীত)", "example": "I could swim when I was five." },
+  { "id": "voc_309", "word": "Count", "meaning": "গোনা", "example": "Count from one to ten." },
+  { "id": "voc_310", "word": "Country", "meaning": "দেশ", "example": "Bangladesh is my country." },
+  { "id": "voc_311", "word": "Course", "meaning": "পাঠ্যক্রম", "example": "I am taking a math course." },
+  { "id": "voc_312", "word": "Cover", "meaning": "ঢাকা", "example": "Cover the pot with a lid." },
+  { "id": "voc_313", "word": "Create", "meaning": "তৈরি করা", "example": "Create a new document." },
+  { "id": "voc_314", "word": "Crime", "meaning": "অপরাধ", "example": "He was arrested for a crime." },
+  { "id": "voc_315", "word": "Cross", "meaning": "পেরিয়ে যাওয়া", "example": "Cross the street carefully." },
+  { "id": "voc_316", "word": "Cry", "meaning": "কান্না করা", "example": "The baby began to cry." },
+  { "id": "voc_317", "word": "Culture", "meaning": "সংস্কৃতি", "example": "We learn about different cultures." },
+  { "id": "voc_318", "word": "Cup", "meaning": "কাপ", "example": "She drank a cup of tea." },
+  { "id": "voc_319", "word": "Current", "meaning": "বর্তমান", "example": "The current situation is serious." },
+  { "id": "voc_320", "word": "Customer", "meaning": "গ্রাহক", "example": "The customer is always right." },
+  { "id": "voc_321", "word": "Cut", "meaning": "কাটা", "example": "Cut the paper into pieces." },
+  { "id": "voc_322", "word": "Dance", "meaning": "নাচা", "example": "They like to dance." },
+  { "id": "voc_323", "word": "Dark", "meaning": "অন্ধকার", "example": "It gets dark early in winter." },
+  { "id": "voc_324", "word": "Data", "meaning": "তথ্য", "example": "The data is accurate." },
+  { "id": "voc_325", "word": "Date", "meaning": "তারিখ", "example": "What is today's date?" },
+  { "id": "voc_326", "word": "Day", "meaning": "দিন", "example": "Today is a sunny day." },
+  { "id": "voc_327", "word": "Dead", "meaning": "মৃত", "example": "The plant is dead." },
+  { "id": "voc_328", "word": "Deal", "meaning": "চুক্তি", "example": "We made a deal." },
+  { "id": "voc_329", "word": "Dear", "meaning": "প্রিয়", "example": "Dear friend, how are you?" },
+  { "id": "voc_330", "word": "Death", "meaning": "মৃত্যু", "example": "Death is inevitable." },
+  { "id": "voc_331", "word": "Decide", "meaning": "সিদ্ধান্ত নেওয়া", "example": "Decide quickly." },
+  { "id": "voc_332", "word": "Deep", "meaning": "গভীর", "example": "The lake is deep." },
+  { "id": "voc_333", "word": "Define", "meaning": "সংজ্ঞায়িত করা", "example": "Define the term clearly." },
+  { "id": "voc_334", "word": "Deliver", "meaning": "বিতরণ করা", "example": "They will deliver the package." },
+  { "id": "voc_335", "word": "Demand", "meaning": "চাহিদা", "example": "There is a high demand for teachers." },
+  { "id": "voc_336", "word": "Describe", "meaning": "বর্ণনা করা", "example": "Describe the scene." },
+  { "id": "voc_337", "word": "Design", "meaning": "নকশা করা", "example": "She designs clothes." },
+  { "id": "voc_338", "word": "Desk", "meaning": "ডেস্ক", "example": "Put your books on the desk." },
+  { "id": "voc_339", "word": "Destroy", "meaning": "ধ্বংস করা", "example": "The storm destroyed the house." },
+  { "id": "voc_340", "word": "Detail", "meaning": "বিস্তারিত", "example": "Explain the details." },
+  { "id": "voc_341", "word": "Develop", "meaning": "বিকাশ করা", "example": "They develop new technology." },
+  { "id": "voc_342", "word": "Die", "meaning": "মারা যাওয়া", "example": "Many plants die in winter." },
+  { "id": "voc_343", "word": "Difference", "meaning": "ভিন্নতা", "example": "There is a difference between them." },
+  { "id": "voc_344", "word": "Different", "meaning": "বিভিন্ন", "example": "She has a different opinion." },
+  { "id": "voc_345", "word": "Difficult", "meaning": "কঠিন", "example": "This is a difficult problem." },
+  { "id": "voc_346", "word": "Dinner", "meaning": "রাতের খাবার", "example": "We had dinner late." },
+  { "id": "voc_347", "word": "Direction", "meaning": "দিকনির্দেশনা", "example": "Follow the direction on the map." },
+  { "id": "voc_348", "word": "Discover", "meaning": "আবিষ্কার করা", "example": "He discovered a new star." },
+  { "id": "voc_349", "word": "Discuss", "meaning": "আলোচনা করা", "example": "Let's discuss the plan." },
+  { "id": "voc_350", "word": "Distance", "meaning": "দূরত্ব", "example": "The distance is five kilometers." },
+  { "id": "voc_351", "word": "Divide", "meaning": "ভাগ করা", "example": "Divide the cake into slices." },
+  { "id": "voc_352", "word": "Do", "meaning": "করা", "example": "What do you do?" },
+  { "id": "voc_353", "word": "Doctor", "meaning": "ডাক্তার", "example": "The doctor is very kind." },
+  { "id": "voc_354", "word": "Dog", "meaning": "কুকুর", "example": "The dog is barking." },
+  { "id": "voc_355", "word": "Door", "meaning": "দরজা", "example": "Close the door, please." },
+  { "id": "voc_356", "word": "Down", "meaning": "নিচে", "example": "Go down the stairs." },
+  { "id": "voc_357", "word": "Draw", "meaning": "আঁকা", "example": "She likes to draw pictures." },
+  { "id": "voc_358", "word": "Dream", "meaning": "স্বপ্ন দেখা", "example": "I dream of traveling." },
+  { "id": "voc_359", "word": "Drive", "meaning": "গাড়ি চালানো", "example": "He can drive a car." },
+  { "id": "voc_360", "word": "Drop", "meaning": "ছাড়া/পড়া", "example": "Don't drop the glass." },
+  { "id": "voc_361", "word": "Dry", "meaning": "শুকনো", "example": "The clothes are dry." },
+  { "id": "voc_362", "word": "During", "meaning": "সময়ে", "example": "During the meeting, he was quiet." },
+  { "id": "voc_363", "word": "Each", "meaning": "প্রত্যেক", "example": "Each student has a book." },
+  { "id": "voc_364", "word": "Early", "meaning": "শীঘ্রই", "example": "She arrived early." },
+  { "id": "voc_365", "word": "East", "meaning": "পূর্ব", "example": "The sun rises in the east." },
+  { "id": "voc_366", "word": "Easy", "meaning": "সহজ", "example": "This task is easy." },
+  { "id": "voc_367", "word": "Eat", "meaning": "খাওয়া", "example": "I eat breakfast at 8 AM." },
+  { "id": "voc_368", "word": "Education", "meaning": "শিক্ষা", "example": "Education is important." },
+  { "id": "voc_369", "word": "Effect", "meaning": "প্রভাব", "example": "The medicine has side effects." },
+  { "id": "voc_370", "word": "Effort", "meaning": "চেষ্টা", "example": "Try harder with your effort." },
+  { "id": "voc_371", "word": "Either", "meaning": "উভয় থেকে কোনো একটি", "example": "You can choose either option." },
+  { "id": "voc_372", "word": "Elephant", "meaning": "হাতি", "example": "The elephant is large." },
+  { "id": "voc_373", "word": "Else", "meaning": "অন্য", "example": "Is there anything else?" },
+  { "id": "voc_374", "word": "End", "meaning": "শেষ", "example": "The movie has a happy end." },
+  { "id": "voc_375", "word": "Enough", "meaning": "পর্যাপ্ত", "example": "I have had enough food." },
+  { "id": "voc_376", "word": "Enter", "meaning": "প্রবেশ করা", "example": "Please enter the room." },
+  { "id": "voc_377", "word": "Equal", "meaning": "সমান", "example": "All people are equal." },
+  { "id": "voc_378", "word": "Explain", "meaning": "ব্যাখ্যা করা", "example": "Explain the rules clearly." },
+  { "id": "voc_379", "word": "Eye", "meaning": "চোখ", "example": "She has blue eyes." },
+  { "id": "voc_380", "word": "Face", "meaning": "মুখ", "example": "He has a friendly face." },
+  { "id": "voc_381", "word": "Fact", "meaning": "তথ্য", "example": "It is a fact." },
+  { "id": "voc_382", "word": "Fall", "meaning": "পড়া", "example": "Leaves fall in autumn." },
+  { "id": "voc_383", "word": "Family", "meaning": "পরিবার", "example": "My family is big." },
+  { "id": "voc_384", "word": "Far", "meaning": "দূরে", "example": "The school is far away." },
+  { "id": "voc_385", "word": "Fast", "meaning": "দ্রুত", "example": "He runs fast." },
+  { "id": "voc_386", "word": "Father", "meaning": "বাবা", "example": "My father works hard." },
+  { "id": "voc_387", "word": "Fear", "meaning": "ভয়", "example": "She has a fear of spiders." },
+  { "id": "voc_388", "word": "Feel", "meaning": "অনুভব করা", "example": "I feel happy today." },
+  { "id": "voc_389", "word": "Few", "meaning": "কয়েকটি", "example": "A few people came." },
+  { "id": "voc_390", "word": "Field", "meaning": "ক্ষেত্র", "example": "The children play in the field." },
+  { "id": "voc_391", "word": "Fight", "meaning": "লড়াই করা", "example": "They fight for justice." },
+  { "id": "voc_392", "word": "Find", "meaning": "পাওয়া", "example": "I can't find my keys." },
+  { "id": "voc_393", "word": "Fine", "meaning": "ভাল", "example": "I am feeling fine." },
+  { "id": "voc_394", "word": "Finger", "meaning": "আঙ্গুল", "example": "He hurt his finger." },
+  { "id": "voc_395", "word": "Finish", "meaning": "শেষ করা", "example": "Finish your homework." },
+  { "id": "voc_396", "word": "Fire", "meaning": "আগুন", "example": "The fire is warm." },
+  { "id": "voc_397", "word": "First", "meaning": "প্রথম", "example": "She was the first to arrive." },
+  { "id": "voc_398", "word": "Fish", "meaning": "মাছ", "example": "I like to eat fish." },
+  { "id": "voc_399", "word": "Five", "meaning": "পাঁচ", "example": "I have five books." },
+  { "id": "voc_400", "word": "Floor", "meaning": "ফ্লোর", "example": "Clean the floor." },
+  { "id": "voc_401", "word": "Fly", "meaning": "উড়া", "example": "Birds fly in the sky." },
+  { "id": "voc_402", "word": "Follow", "meaning": "অনুসরণ করা", "example": "Follow the instructions." },
+  { "id": "voc_403", "word": "Food", "meaning": "খাবার", "example": "I like spicy food." },
+  { "id": "voc_404", "word": "Foot", "meaning": "পা", "example": "My foot hurts." },
+  { "id": "voc_405", "word": "For", "meaning": "জন্য", "example": "This gift is for you." },
+  { "id": "voc_406", "word": "Force", "meaning": "বল", "example": "The force was very strong." },
+  { "id": "voc_407", "word": "Forget", "meaning": "ভুলে যাওয়া", "example": "Don't forget your homework." },
+  { "id": "voc_408", "word": "Form", "meaning": "আকার/ফরম", "example": "Fill out the form." },
+  { "id": "voc_409", "word": "Fortunate", "meaning": "সৌভাগ্যবান", "example": "He was fortunate to win." },
+  { "id": "voc_410", "word": "Forward", "meaning": "সামনে", "example": "Move forward carefully." },
+  { "id": "voc_411", "word": "Found", "meaning": "পাওয়া/স্থাপিত করা", "example": "They found a lost dog." },
+  { "id": "voc_412", "word": "Free", "meaning": "মুক্ত", "example": "This software is free." },
+  { "id": "voc_413", "word": "Fresh", "meaning": "তাজা", "example": "I bought fresh vegetables." },
+  { "id": "voc_414", "word": "Friend", "meaning": "বন্ধু", "example": "My best friend lives nearby." },
+  { "id": "voc_415", "word": "From", "meaning": "থেকে", "example": "I am from Bangladesh." },
+  { "id": "voc_416", "word": "Front", "meaning": "সামনে", "example": "Stand in front of the class." },
+  { "id": "voc_417", "word": "Fruit", "meaning": "ফল", "example": "I eat fruit every day." },
+  { "id": "voc_418", "word": "Full", "meaning": "পুর্ণ", "example": "The glass is full." },
+  { "id": "voc_419", "word": "Fun", "meaning": "মজা", "example": "We had fun at the party." },
+  { "id": "voc_420", "word": "Future", "meaning": "ভবিষ্যৎ", "example": "Plan for the future." },
+  { "id": "voc_421", "word": "Game", "meaning": "খেলা", "example": "They played a game." },
+  { "id": "voc_422", "word": "Garden", "meaning": "বাগান", "example": "The garden is beautiful." },
+  { "id": "voc_423", "word": "Gas", "meaning": "গ্যাস", "example": "The gas tank is full." },
+  { "id": "voc_424", "word": "Gate", "meaning": "গেট", "example": "Open the gate." },
+  { "id": "voc_425", "word": "Get", "meaning": "পাওয়া", "example": "I get up early." },
+  { "id": "voc_426", "word": "Girl", "meaning": "মেয়ে", "example": "The girl is reading." },
+  { "id": "voc_427", "word": "Give", "meaning": "দেওয়া", "example": "Please give me the book." },
+  { "id": "voc_428", "word": "Go", "meaning": "যাওয়া", "example": "I will go to school." },
+  { "id": "voc_429", "word": "Good", "meaning": "ভাল", "example": "She is a good student." },
+  { "id": "voc_430", "word": "Got", "meaning": "পেয়েছিলাম", "example": "I got a gift." },
+  { "id": "voc_431", "word": "Grow", "meaning": "বৃদ্ধি করা", "example": "Plants grow in sunlight." },
+  { "id": "voc_432", "word": "Guess", "meaning": "অনুমান করা", "example": "Can you guess the answer?" },
+  { "id": "voc_433", "word": "Happy", "meaning": "সুখী", "example": "She looks happy." },
+  { "id": "voc_434", "word": "Hard", "meaning": "কঠিন", "example": "This is a hard test." },
+  { "id": "voc_435", "word": "Happen", "meaning": "ঘটা", "example": "What happened yesterday?" },
+  { "id": "voc_436", "word": "Hat", "meaning": "টুপি", "example": "He wore a hat." },
+  { "id": "voc_437", "word": "Have", "meaning": "আছে", "example": "I have a car." },
+  { "id": "voc_438", "word": "He", "meaning": "সে (পুরুষ)", "example": "He is my brother." },
+  { "id": "voc_439", "word": "Head", "meaning": "মাথা", "example": "I hurt my head." },
+  { "id": "voc_440", "word": "Health", "meaning": "স্বাস্থ্য", "example": "Health is wealth." },
+  { "id": "voc_441", "word": "Hear", "meaning": "শোনা", "example": "Can you hear the music?" },
+  { "id": "voc_442", "word": "Heart", "meaning": "হৃদয়", "example": "My heart is beating fast." },
+  { "id": "voc_443", "word": "Help", "meaning": "সাহায্য করা", "example": "Can you help me?" },
+  { "id": "voc_444", "word": "Her", "meaning": "তার (মহিলা)", "example": "This is her book." },
+  { "id": "voc_445", "word": "Here", "meaning": "এখানে", "example": "Come here." },
+  { "id": "voc_446", "word": "High", "meaning": "উচ্চ", "example": "The mountain is high." },
+  { "id": "voc_447", "word": "Him", "meaning": "তাকে (পুরুষ)", "example": "I saw him yesterday." },
+  { "id": "voc_448", "word": "His", "meaning": "তার (পুরুষ)", "example": "This is his pen." },
+  { "id": "voc_449", "word": "Hold", "meaning": "ধরা", "example": "Hold my hand." },
+  { "id": "voc_450", "word": "Home", "meaning": "বাড়ি", "example": "I am going home." },
+  { "id": "voc_451", "word": "Hope", "meaning": "আশা করা", "example": "I hope you succeed." },
+  { "id": "voc_452", "word": "Hour", "meaning": "ঘন্টা", "example": "It takes an hour." },
+  { "id": "voc_453", "word": "House", "meaning": "বাড়ি", "example": "The house is big." },
+  { "id": "voc_454", "word": "How", "meaning": "কিভাবে", "example": "How are you?" },
+  { "id": "voc_455", "word": "Hundred", "meaning": "একশো", "example": "There are a hundred pages." },
+  { "id": "voc_456", "word": "Husband", "meaning": "স্বামী", "example": "Her husband is a doctor." },
+  { "id": "voc_457", "word": "I", "meaning": "আমি", "example": "I am happy." },
+  { "id": "voc_458", "word": "Idea", "meaning": "ভাবনা", "example": "I have a good idea." },
+  { "id": "voc_459", "word": "If", "meaning": "যদি", "example": "If it rains, stay home." },
+  { "id": "voc_460", "word": "Important", "meaning": "গুরুত্বপূর্ণ", "example": "This is an important message." },
+  { "id": "voc_461", "word": "In", "meaning": "ভিতরে", "example": "The book is in the bag." },
+  { "id": "voc_462", "word": "Include", "meaning": "অন্তর্ভুক্ত করা", "example": "Include all details." },
+  { "id": "voc_463", "word": "Information", "meaning": "তথ্য", "example": "I need more information." },
+  { "id": "voc_464", "word": "Inside", "meaning": "ভেতরে", "example": "Look inside the box." },
+  { "id": "voc_465", "word": "Instead", "meaning": "বদলে", "example": "Use pen instead of pencil." },
+  { "id": "voc_466", "word": "Interest", "meaning": "রুচি", "example": "He has an interest in music." },
+  { "id": "voc_467", "word": "International", "meaning": "আন্তর্জাতিক", "example": "International travel is exciting." },
+  { "id": "voc_468", "word": "Internet", "meaning": "ইন্টারনেট", "example": "I use the internet daily." },
+  { "id": "voc_469", "word": "Interview", "meaning": "সাক্ষাৎকার", "example": "She gave a good interview." },
+  { "id": "voc_470", "word": "Introduce", "meaning": "পরিচয় করানো", "example": "Please introduce yourself." },
+  { "id": "voc_471", "word": "Invest", "meaning": "বিনিয়োগ করা", "example": "He invested in stocks." },
+  { "id": "voc_472", "word": "Iron", "meaning": "লোহা/ইস্ত্রি করা", "example": "Iron your clothes." },
+  { "id": "voc_473", "word": "Island", "meaning": "দ্বীপ", "example": "They visited a tropical island." },
+  { "id": "voc_474", "word": "Issue", "meaning": "সমস্যা/প্রশ্ন", "example": "This is a serious issue." },
+  { "id": "voc_475", "word": "It", "meaning": "এটা", "example": "It is raining." },
+  { "id": "voc_476", "word": "Item", "meaning": "বস্তু", "example": "I bought several items." },
+  { "id": "voc_477", "word": "Job", "meaning": "কাজ", "example": "He has a new job." },
+  { "id": "voc_478", "word": "Join", "meaning": "যোগদান করা", "example": "Join the club." },
+  { "id": "voc_479", "word": "Journey", "meaning": "যাত্রা", "example": "The journey was long." },
+  { "id": "voc_480", "word": "Joy", "meaning": "আনন্দ", "example": "She felt great joy." },
+  { "id": "voc_481", "word": "Judge", "meaning": "বিচারক/বিচার করা", "example": "The judge made a decision." },
+  { "id": "voc_482", "word": "Jump", "meaning": "কোঠা মারা", "example": "The cat can jump high." },
+  { "id": "voc_483", "word": "Keep", "meaning": "রাখা", "example": "Keep your promises." },
+  { "id": "voc_484", "word": "Key", "meaning": "চাবি", "example": "I lost my key." },
+  { "id": "voc_485", "word": "Kill", "meaning": "হত্যা করা", "example": "They kill mosquitoes." },
+  { "id": "voc_486", "word": "Kind", "meaning": "দয়ালু", "example": "She is very kind." },
+  { "id": "voc_487", "word": "King", "meaning": "রাজা", "example": "The king ruled wisely." },
+  { "id": "voc_488", "word": "Know", "meaning": "জানা", "example": "I know the answer." },
+  { "id": "voc_489", "word": "Knowledge", "meaning": "জ্ঞান", "example": "Knowledge is power." },
+  { "id": "voc_490", "word": "Land", "meaning": "জমি", "example": "The land is fertile." },
+  { "id": "voc_491", "word": "Language", "meaning": "ভাষা", "example": "English is a global language." },
+  { "id": "voc_492", "word": "Large", "meaning": "বড়", "example": "They live in a large house." },
+  { "id": "voc_493", "word": "Last", "meaning": "শেষ", "example": "This is the last chapter." },
+  { "id": "voc_494", "word": "Late", "meaning": "দেরি", "example": "He arrived late." },
+  { "id": "voc_495", "word": "Laugh", "meaning": "হাসা", "example": "She likes to laugh." },
+  { "id": "voc_496", "word": "Law", "meaning": "আইন", "example": "Follow the law." },
+  { "id": "voc_497", "word": "Lay", "meaning": "বিছানো/দেওয়া", "example": "Lay the book on the table." },
+  { "id": "voc_498", "word": "Lead", "meaning": "নেতৃত্ব দেওয়া", "example": "She will lead the team." },
+  { "id": "voc_499", "word": "Learn", "meaning": "শিখা", "example": "I want to learn English." },
+  { "id": "voc_500", "word": "Leave", "meaning": "ছাড়া", "example": "Leave the room quietly." },
+  { "id": "voc_501", "word": "Left", "meaning": "বামে", "example": "Turn left at the corner." },
+  { "id": "voc_502", "word": "Leg", "meaning": "পা", "example": "He broke his leg." },
+  { "id": "voc_503", "word": "Less", "meaning": "কম", "example": "Use less sugar." },
+  { "id": "voc_504", "word": "Let", "meaning": "দেওয়া/অনুমতি দেওয়া", "example": "Let me help you." },
+  { "id": "voc_505", "word": "Letter", "meaning": "চিঠি", "example": "I received a letter." },
+  { "id": "voc_506", "word": "Level", "meaning": "স্তর", "example": "The water level is high." },
+  { "id": "voc_507", "word": "Library", "meaning": "গ্রন্থাগার", "example": "She studies at the library." },
+  { "id": "voc_508", "word": "Lie", "meaning": "মিথ্যা/শুয়ে থাকা", "example": "Don't tell a lie." },
+  { "id": "voc_509", "word": "Life", "meaning": "জীবন", "example": "Life is beautiful." },
+  { "id": "voc_510", "word": "Light", "meaning": "আলো", "example": "Turn on the light." },
+  { "id": "voc_511", "word": "Like", "meaning": "পছন্দ করা", "example": "I like chocolate." },
+  { "id": "voc_512", "word": "Line", "meaning": "রেখা", "example": "Draw a straight line." },
+  { "id": "voc_513", "word": "Listen", "meaning": "শোনা", "example": "Listen carefully." },
+  { "id": "voc_514", "word": "Little", "meaning": "ছোট", "example": "She has a little dog." },
+  { "id": "voc_515", "word": "Live", "meaning": "বাঁচা/বসবাস করা", "example": "I live in Dhaka." },
+  { "id": "voc_516", "word": "Long", "meaning": "লম্বা", "example": "This is a long road." },
+  { "id": "voc_517", "word": "Look", "meaning": "দেখা", "example": "Look at me." },
+  { "id": "voc_518", "word": "Lose", "meaning": "হারানো", "example": "Don't lose your keys." },
+  { "id": "voc_519", "word": "Love", "meaning": "ভালবাসা", "example": "I love my family." },
+  { "id": "voc_520", "word": "Machine", "meaning": "মেশিন", "example": "The machine is broken." },
+  { "id": "voc_521", "word": "Make", "meaning": "তৈরি করা", "example": "Make a cake." },
+  { "id": "voc_522", "word": "Man", "meaning": "পুরুষ", "example": "He is a kind man." },
+  { "id": "voc_523", "word": "Many", "meaning": "অনেক", "example": "There are many books." },
+  { "id": "voc_524", "word": "Mark", "meaning": "চিহ্ন/মার্ক করা", "example": "Mark the correct answer." },
+  { "id": "voc_525", "word": "Market", "meaning": "বাজার", "example": "We went to the market." },
+  { "id": "voc_526", "word": "Marry", "meaning": "বিয়ে করা", "example": "They plan to marry soon." },
+  { "id": "voc_527", "word": "Matter", "meaning": "বিষয়/বস্ত্ত", "example": "It's a serious matter." },
+  { "id": "voc_528", "word": "May", "meaning": "হতে পারে", "example": "It may rain today." },
+  { "id": "voc_529", "word": "Me", "meaning": "আমাকে/আমার", "example": "Give it to me." },
+  { "id": "voc_530", "word": "Mean", "meaning": "অর্থ হওয়া", "example": "What do you mean?" },
+  { "id": "voc_531", "word": "Measure", "meaning": "মাপা", "example": "Measure the length." },
+  { "id": "voc_532", "word": "Meet", "meaning": "মিলিত হওয়া", "example": "Let's meet tomorrow." },
+  { "id": "voc_533", "word": "Memory", "meaning": "স্মৃতি", "example": "I have good memory." },
+  { "id": "voc_534", "word": "Mention", "meaning": "উল্লেখ করা", "example": "Mention your name." },
+  { "id": "voc_535", "word": "Middle", "meaning": "মাঝখান", "example": "He sat in the middle." },
+  { "id": "voc_536", "word": "Mind", "meaning": "মনের অবস্থা", "example": "Change your mind." },
+  { "id": "voc_537", "word": "Minute", "meaning": "মিনিট", "example": "Wait a minute." },
+  { "id": "voc_538", "word": "Miss", "meaning": "মিস করা/মিসেস", "example": "I miss you." },
+  { "id": "voc_539", "word": "Moment", "meaning": "মুহূর্ত", "example": "Wait a moment." },
+  { "id": "voc_540", "word": "Money", "meaning": "টাকা", "example": "I need money." },
+  { "id": "voc_541", "word": "Month", "meaning": "মাস", "example": "There are 12 months in a year." },
+  { "id": "voc_542", "word": "More", "meaning": "আরো", "example": "I want more food." },
+  { "id": "voc_543", "word": "Morning", "meaning": "সকাল", "example": "Good morning!" },
+  { "id": "voc_544", "word": "Most", "meaning": "সর্বাধিক", "example": "He is the most talented." },
+  { "id": "voc_545", "word": "Mother", "meaning": "মা", "example": "My mother is kind." },
+  { "id": "voc_546", "word": "Mountain", "meaning": "পর্বত", "example": "Mount Everest is the highest mountain." },
+  { "id": "voc_547", "word": "Move", "meaning": "হাঁটাচলা করা", "example": "Move the chair." },
+  { "id": "voc_548", "word": "Much", "meaning": "অনেক", "example": "Thank you very much." },
+  { "id": "voc_549", "word": "Music", "meaning": "সঙ্গীত", "example": "I love music." },
+  { "id": "voc_550", "word": "Must", "meaning": "অবশ্যই", "example": "You must study." },
+  { "id": "voc_551", "word": "My", "meaning": "আমার", "example": "This is my book." },
+  { "id": "voc_552", "word": "Name", "meaning": "নাম", "example": "What is your name?" },
+  { "id": "voc_553", "word": "Nation", "meaning": "জাতি", "example": "Our nation is strong." },
+  { "id": "voc_554", "word": "Natural", "meaning": "প্রাকৃতিক", "example": "Natural resources are valuable." },
+  { "id": "voc_555", "word": "Near", "meaning": "কাছাকাছি", "example": "The school is near." },
+  { "id": "voc_556", "word": "Necessary", "meaning": "প্রয়োজনীয়", "example": "It is necessary to be honest." },
+  { "id": "voc_557", "word": "Need", "meaning": "প্রয়োজন", "example": "I need water." },
+  { "id": "voc_558", "word": "Never", "meaning": "কখনও নয়", "example": "I never lie." },
+  { "id": "voc_559", "word": "New", "meaning": "নতুন", "example": "I bought a new phone." },
+  { "id": "voc_560", "word": "Next", "meaning": "পরবর্তী", "example": "Next week is a holiday." },
+  { "id": "voc_561", "word": "Nice", "meaning": "ভাল/সুন্দর", "example": "She is a nice person." },
+  { "id": "voc_562", "word": "Night", "meaning": "রাত", "example": "Good night." },
+  { "id": "voc_563", "word": "No", "meaning": "না", "example": "No, thank you." },
+  { "id": "voc_564", "word": "Noise", "meaning": "শব্দ", "example": "The noise is loud." },
+  { "id": "voc_565", "word": "None", "meaning": "কিছু নয়", "example": "None of them came." },
+  { "id": "voc_566", "word": "Nor", "meaning": "না", "example": "He neither came nor called." },
+  { "id": "voc_567", "word": "North", "meaning": "উত্তর", "example": "The wind is from the north." },
+  { "id": "voc_568", "word": "Not", "meaning": "না", "example": "I am not ready." },
+  { "id": "voc_569", "word": "Note", "meaning": "নোট/লেখা", "example": "Take notes in class." },
+  { "id": "voc_570", "word": "Nothing", "meaning": "কিছুই নয়", "example": "Nothing is impossible." },
+  { "id": "voc_571", "word": "Notice", "meaning": "সতর্ক করা", "example": "I noticed the mistake." },
+  { "id": "voc_572", "word": "Now", "meaning": "এখন", "example": "I am busy now." },
+  { "id": "voc_573", "word": "Number", "meaning": "সংখ্যা", "example": "What is your phone number?" },
+  { "id": "voc_574", "word": "Object", "meaning": "বস্তু", "example": "That object is heavy." },
+  { "id": "voc_575", "word": "Observe", "meaning": "পর্যবেক্ষণ করা", "example": "Observe the stars." },
+  { "id": "voc_576", "word": "Occur", "meaning": "ঘটা", "example": "Accidents occur often." },
+  { "id": "voc_577", "word": "Ocean", "meaning": "মহাসাগর", "example": "The ocean is vast." },
+  { "id": "voc_578", "word": "Offer", "meaning": "প্রস্তাব করা", "example": "They offered help." },
+  { "id": "voc_579", "word": "Office", "meaning": "অফিস", "example": "She works in an office." },
+  { "id": "voc_580", "word": "Often", "meaning": "প্রায়শই", "example": "I often go there." },
+  { "id": "voc_581", "word": "Oh", "meaning": "আহা", "example": "Oh! I didn't see you." },
+  { "id": "voc_582", "word": "Oil", "meaning": "তেল", "example": "Use less oil." },
+  { "id": "voc_583", "word": "Old", "meaning": "পুরোনো", "example": "This is an old book." },
+  { "id": "voc_584", "word": "On", "meaning": "উপর", "example": "The book is on the table." },
+  { "id": "voc_585", "word": "Once", "meaning": "একবার", "example": "I have been there once." },
+  { "id": "voc_586", "word": "One", "meaning": "এক", "example": "I have one brother." },
+  { "id": "voc_587", "word": "Only", "meaning": "মাত্র", "example": "This is the only way." },
+  { "id": "voc_588", "word": "Open", "meaning": "খোলা", "example": "Open the door." },
+  { "id": "voc_589", "word": "Opportunity", "meaning": "সুযোগ", "example": "This is a great opportunity." },
+  { "id": "voc_590", "word": "Option", "meaning": "বিকল্প", "example": "You have two options." },
+  { "id": "voc_591", "word": "Or", "meaning": "অথবা", "example": "Tea or coffee?" },
+  { "id": "voc_592", "word": "Order", "meaning": "অর্ডার/আদেশ", "example": "Place an order." },
+  { "id": "voc_593", "word": "Other", "meaning": "অন্য", "example": "The other book is mine." },
+  { "id": "voc_594", "word": "Our", "meaning": "আমাদের", "example": "This is our house." },
+  { "id": "voc_595", "word": "Out", "meaning": "বাইরে", "example": "Go out and play." },
+  { "id": "voc_596", "word": "Outside", "meaning": "বাইরে", "example": "It's cold outside." },
+  { "id": "voc_597", "word": "Over", "meaning": "ওপর", "example": "The plane flew over the city." },
+  { "id": "voc_598", "word": "Own", "meaning": "নিজস্ব", "example": "I have my own car." },
+  { "id": "voc_599", "word": "Page", "meaning": "পাতা", "example": "Turn the page." },
+  { "id": "voc_600", "word": "Paint", "meaning": "রঙ করা", "example": "Paint the wall." },
+  { "id": "voc_601", "word": "Paper", "meaning": "কাগজ", "example": "Write your name on the paper." },
+  { "id": "voc_602", "word": "Parent", "meaning": "অভিভাবক", "example": "My parents are kind." },
+  { "id": "voc_603", "word": "Part", "meaning": "অংশ", "example": "This is part of the plan." },
+  { "id": "voc_604", "word": "Participate", "meaning": "অংশগ্রহণ করা", "example": "She will participate in the event." },
+  { "id": "voc_605", "word": "Party", "meaning": "পার্টি", "example": "We had a party last night." },
+  { "id": "voc_606", "word": "Pass", "meaning": "পারা/পাস করা", "example": "I passed the exam." },
+  { "id": "voc_607", "word": "Past", "meaning": "অতীত", "example": "Learn from the past." },
+  { "id": "voc_608", "word": "Path", "meaning": "পথ", "example": "Follow the path." },
+  { "id": "voc_609", "word": "Pay", "meaning": "দেওয়া", "example": "Pay the bill." },
+  { "id": "voc_610", "word": "Peace", "meaning": "শান্তি", "example": "We want peace." },
+  { "id": "voc_611", "word": "People", "meaning": "মানুষ", "example": "Many people are here." },
+  { "id": "voc_612", "word": "Perfect", "meaning": "পরিপূর্ণ", "example": "This is a perfect plan." },
+  { "id": "voc_613", "word": "Perform", "meaning": "কার্য সম্পাদন করা", "example": "She will perform on stage." },
+  { "id": "voc_614", "word": "Perhaps", "meaning": "সম্ভবত", "example": "Perhaps it will rain." },
+  { "id": "voc_615", "word": "Period", "meaning": "সময়কাল", "example": "The meeting lasted a long period." },
+  { "id": "voc_616", "word": "Person", "meaning": "ব্যক্তি", "example": "She is a good person." },
+  { "id": "voc_617", "word": "Phone", "meaning": "ফোন", "example": "Call me on the phone." },
+  { "id": "voc_618", "word": "Photo", "meaning": "ছবি", "example": "Take a photo." },
+  { "id": "voc_619", "word": "Pick", "meaning": "নেওয়া/তোলা", "example": "Pick a flower." },
+  { "id": "voc_620", "word": "Picture", "meaning": "ছবি", "example": "Look at the picture." },
+  { "id": "voc_621", "word": "Place", "meaning": "স্থান", "example": "This is a nice place." },
+  { "id": "voc_622", "word": "Plan", "meaning": "পরিকল্পনা", "example": "Make a plan." },
+  { "id": "voc_623", "word": "Play", "meaning": "খেলা করা", "example": "Children love to play." },
+  { "id": "voc_624", "word": "Please", "meaning": "অনুগ্রহ করে", "example": "Please sit down." },
+  { "id": "voc_625", "word": "Point", "meaning": "বিন্দু/বিচার", "example": "Make your point clear." },
+  { "id": "voc_626", "word": "Police", "meaning": "পুলিশ", "example": "The police are here." },
+  { "id": "voc_627", "word": "Policy", "meaning": "নীতিমালা", "example": "Follow the policy." },
+  { "id": "voc_628", "word": "Politics", "meaning": "রাজনীতি", "example": "He is interested in politics." },
+  { "id": "voc_629", "word": "Poor", "meaning": "দরিদ্র", "example": "Many people are poor." },
+  { "id": "voc_630", "word": "Popular", "meaning": "জনপ্রিয়", "example": "This song is popular." },
+  { "id": "voc_631", "word": "Position", "meaning": "অবস্থান", "example": "The position is vacant." },
+  { "id": "voc_632", "word": "Possible", "meaning": "সম্ভব", "example": "Is it possible to come?" },
+  { "id": "voc_633", "word": "Post", "meaning": "পোস্ট করা/পোস্ট অফিস", "example": "Post the letter." },
+  { "id": "voc_634", "word": "Practice", "meaning": "অনুশীলন", "example": "Practice makes perfect." },
+  { "id": "voc_635", "word": "Prefer", "meaning": "পছন্দ করা", "example": "I prefer tea over coffee." },
+  { "id": "voc_636", "word": "Prepare", "meaning": "প্রস্তুত করা", "example": "Prepare your homework." },
+  { "id": "voc_637", "word": "Present", "meaning": "বর্তমান/উপস্থিত", "example": "She is present now." },
+  { "id": "voc_638", "word": "Press", "meaning": "চেপে ধরা/প্রেস", "example": "Press the button." },
+  { "id": "voc_639", "word": "Prevent", "meaning": "প্রতিরোধ করা", "example": "Prevent accidents." },
+  { "id": "voc_640", "word": "Price", "meaning": "মূল্য", "example": "What is the price?" },
+  { "id": "voc_641", "word": "Private", "meaning": "ব্যক্তিগত", "example": "This is a private matter." },
+  { "id": "voc_642", "word": "Probably", "meaning": "সম্ভবত", "example": "He will probably come." },
+  { "id": "voc_643", "word": "Problem", "meaning": "সমস্যা", "example": "We have a problem." },
+  { "id": "voc_644", "word": "Produce", "meaning": "উৎপাদন করা", "example": "They produce cars." },
+  { "id": "voc_645", "word": "Product", "meaning": "পণ্য", "example": "This product is new." },
+  { "id": "voc_646", "word": "Program", "meaning": "প্রোগ্রাম", "example": "Watch the program on TV." },
+  { "id": "voc_647", "word": "Project", "meaning": "প্রকল্প", "example": "Complete the project." },
+  { "id": "voc_648", "word": "Promise", "meaning": "প্রতিশ্রুতি", "example": "I promise to help." },
+  { "id": "voc_649", "word": "Protect", "meaning": "সুরক্ষা করা", "example": "Protect the environment." },
+  { "id": "voc_650", "word": "Provide", "meaning": "প্রদান করা", "example": "Provide necessary documents." },
+  { "id": "voc_651", "word": "Public", "meaning": "সর্বজনীন", "example": "This is a public park." },
+  { "id": "voc_652", "word": "Pull", "meaning": "তোলা", "example": "Pull the door open." },
+  { "id": "voc_653", "word": "Purpose", "meaning": "উদ্দেশ্য", "example": "What is the purpose?" },
+  { "id": "voc_654", "word": "Push", "meaning": "ঠেলা", "example": "Push the button." },
+  { "id": "voc_655", "word": "Put", "meaning": "রাখা", "example": "Put the book on the table." },
+  { "id": "voc_656", "word": "Quality", "meaning": "গুণমান", "example": "This product has good quality." },
+  { "id": "voc_657", "word": "Question", "meaning": "প্রশ্ন", "example": "Ask a question." },
+  { "id": "voc_658", "word": "Quick", "meaning": "দ্রুত", "example": "He is quick to respond." },
+  { "id": "voc_659", "word": "Quiet", "meaning": "নীরব", "example": "Please be quiet." },
+  { "id": "voc_660", "word": "Race", "meaning": "দৌড়", "example": "He won the race." },
+  { "id": "voc_661", "word": "Radio", "meaning": "রেডিও", "example": "Listen to the radio." },
+  { "id": "voc_662", "word": "Rain", "meaning": "বৃষ্টি", "example": "It will rain today." },
+  { "id": "voc_663", "word": "Raise", "meaning": "উঠানো", "example": "Raise your hand." },
+  { "id": "voc_664", "word": "Reach", "meaning": "পৌঁছানো", "example": "Reach the destination." },
+  { "id": "voc_665", "word": "Read", "meaning": "পড়া", "example": "I like to read books." },
+  { "id": "voc_666", "word": "Real", "meaning": "বাস্তব", "example": "Is this real?" },
+  { "id": "voc_667", "word": "Reason", "meaning": "কারণ", "example": "What is the reason?" },
+  { "id": "voc_668", "word": "Receive", "meaning": "প্রাপ্ত করা", "example": "I received a gift." },
+  { "id": "voc_669", "word": "Record", "meaning": "রেকর্ড/লিখিত", "example": "Keep a record of expenses." },
+  { "id": "voc_670", "word": "Red", "meaning": "লাল", "example": "The apple is red." },
+  { "id": "voc_671", "word": "Remember", "meaning": "মনে রাখা", "example": "Remember to call me." },
+  { "id": "voc_672", "word": "Remove", "meaning": "সরানো", "example": "Remove your shoes." },
+  { "id": "voc_673", "word": "Repair", "meaning": "মেরামত করা", "example": "Repair the car." },
+  { "id": "voc_674", "word": "Repeat", "meaning": "আবার করা", "example": "Please repeat the question." },
+  { "id": "voc_675", "word": "Replace", "meaning": "প্রতিস্থাপন করা", "example": "Replace the old bulb." },
+  { "id": "voc_676", "word": "Report", "meaning": "রিপোর্ট", "example": "Submit the report." },
+  { "id": "voc_677", "word": "Request", "meaning": "অনুরোধ", "example": "I request your help." },
+  { "id": "voc_678", "word": "Require", "meaning": "প্রয়োজন", "example": "This job requires skill." },
+  { "id": "voc_679", "word": "Research", "meaning": "গবেষণা", "example": "Research is important." },
+  { "id": "voc_680", "word": "Respect", "meaning": "সম্মান করা", "example": "Respect your elders." },
+  { "id": "voc_681", "word": "Rest", "meaning": "বাকি/বিশ্রাম", "example": "Take some rest." },
+  { "id": "voc_682", "word": "Result", "meaning": "ফলাফল", "example": "The result was good." },
+  { "id": "voc_683", "word": "Return", "meaning": "ফিরে আসা", "example": "Return the book." },
+  { "id": "voc_684", "word": "Reveal", "meaning": "প্রকাশ করা", "example": "Reveal the secret." },
+  { "id": "voc_685", "word": "Rich", "meaning": "ধনী", "example": "He is rich." },
+  { "id": "voc_686", "word": "Right", "meaning": "সঠিক/ডান", "example": "Turn right." },
+  { "id": "voc_687", "word": "Ring", "meaning": "আংটি/বাজনা", "example": "The phone is ringing." },
+  { "id": "voc_688", "word": "Rise", "meaning": "উঠা", "example": "The sun will rise soon." },
+  { "id": "voc_689", "word": "Road", "meaning": "রাস্তা", "example": "The road is busy." },
+  { "id": "voc_690", "word": "Rock", "meaning": "পাথর", "example": "He threw a rock." },
+  { "id": "voc_691", "word": "Role", "meaning": "ভূমিকা", "example": "She played an important role." },
+  { "id": "voc_692", "word": "Room", "meaning": "কক্ষ", "example": "This is my room." },
+  { "id": "voc_693", "word": "Rule", "meaning": "নিয়ম", "example": "Follow the rules." },
+  { "id": "voc_694", "word": "Run", "meaning": "দৌড়ানো", "example": "He runs fast." },
+  { "id": "voc_695", "word": "Safe", "meaning": "নিরাপদ", "example": "Keep safe." },
+  { "id": "voc_696", "word": "Sale", "meaning": "বিক্রি", "example": "The sale ends tomorrow." },
+  { "id": "voc_697", "word": "Same", "meaning": "একই", "example": "We have the same book." },
+  { "id": "voc_698", "word": "Save", "meaning": "সংরক্ষণ করা", "example": "Save your money." },
+  { "id": "voc_699", "word": "Say", "meaning": "কথা বলা", "example": "What did you say?" },
+  { "id": "voc_700", "word": "School", "meaning": "বিদ্যালয়", "example": "She goes to school." },
+  { "id": "voc_701", "word": "Science", "meaning": "বিজ্ঞান", "example": "Science is interesting." },
+  { "id": "voc_702", "word": "Season", "meaning": "মৌসুম", "example": "Winter is my favorite season." },
+  { "id": "voc_703", "word": "Seat", "meaning": "আসন", "example": "Please take your seat." },
+  { "id": "voc_704", "word": "Second", "meaning": "দ্বিতীয়/সেকেন্ড", "example": "Wait a second." },
+  { "id": "voc_705", "word": "Secret", "meaning": "গোপন", "example": "Keep it a secret." },
+  { "id": "voc_706", "word": "Security", "meaning": "নিরাপত্তা", "example": "Security is important." },
+  { "id": "voc_707", "word": "See", "meaning": "দেখা", "example": "Can you see the bird?" },
+  { "id": "voc_708", "word": "Sell", "meaning": "বিক্রি করা", "example": "They sell fresh fruits." },
+  { "id": "voc_709", "word": "Send", "meaning": "পাঠানো", "example": "Send me the details." },
+  { "id": "voc_710", "word": "Sense", "meaning": "অনুভূতি", "example": "I have a sense of danger." },
+  { "id": "voc_711", "word": "Separate", "meaning": "বিভক্ত করা", "example": "Separate the documents." },
+  { "id": "voc_712", "word": "Serious", "meaning": "গম্ভীর", "example": "He is a serious student." },
+  { "id": "voc_713", "word": "Serve", "meaning": "পরিবেশন করা", "example": "Serve the food hot." },
+  { "id": "voc_714", "word": "Service", "meaning": "সেবা", "example": "The service was excellent." },
+  { "id": "voc_715", "word": "Set", "meaning": "সেট/স্থাপন করা", "example": "Set the table." },
+  { "id": "voc_716", "word": "Seven", "meaning": "সাত", "example": "There are seven days in a week." },
+  { "id": "voc_717", "word": "Several", "meaning": "কয়েকটি", "example": "Several people came." },
+  { "id": "voc_718", "word": "Shade", "meaning": "ছায়া", "example": "Sit in the shade." },
+  { "id": "voc_719", "word": "Shape", "meaning": "আকার", "example": "The shape is round." },
+  { "id": "voc_720", "word": "Share", "meaning": "শেয়ার করা", "example": "Share your ideas." },
+  { "id": "voc_721", "word": "Sharp", "meaning": "ধাঁতু", "example": "Be careful with the sharp knife." },
+  { "id": "voc_722", "word": "Sheet", "meaning": "চাদর/শীট", "example": "Change the bedsheet." },
+  { "id": "voc_723", "word": "Ship", "meaning": "জাহাজ", "example": "The ship sailed at dawn." },
+  { "id": "voc_724", "word": "Shirt", "meaning": "শার্ট", "example": "He wore a blue shirt." },
+  { "id": "voc_725", "word": "Short", "meaning": "সংক্ষিপ্ত/ছোট", "example": "It was a short trip." },
+  { "id": "voc_726", "word": "Should", "meaning": "উচিত", "example": "You should study." },
+  { "id": "voc_727", "word": "Show", "meaning": "দেখানো", "example": "Show me your work." },
+  { "id": "voc_728", "word": "Side", "meaning": "পাশ", "example": "Stand by my side." },
+  { "id": "voc_729", "word": "Sight", "meaning": "দৃষ্টি", "example": "The sight was beautiful." },
+  { "id": "voc_730", "word": "Sign", "meaning": "চিহ্ন", "example": "Look for the sign." },
+  { "id": "voc_731", "word": "Simple", "meaning": "সহজ", "example": "It's a simple question." },
+  { "id": "voc_732", "word": "Since", "meaning": "হইতে", "example": "I have lived here since 2010." },
+  { "id": "voc_733", "word": "Sing", "meaning": "গাওয়া", "example": "She likes to sing." },
+  { "id": "voc_734", "word": "Single", "meaning": "একক", "example": "I live in a single room." },
+  { "id": "voc_735", "word": "Sister", "meaning": "বোন", "example": "My sister is a doctor." },
+  { "id": "voc_736", "word": "Sit", "meaning": "বসা", "example": "Please sit down." },
+  { "id": "voc_737", "word": "Situation", "meaning": "অবস্থা", "example": "The situation is serious." },
+  { "id": "voc_738", "word": "Six", "meaning": "ছয়", "example": "There are six chairs." },
+  { "id": "voc_739", "word": "Size", "meaning": "আকার", "example": "What size do you wear?" },
+  { "id": "voc_740", "word": "Skill", "meaning": "দক্ষতা", "example": "He has good skills." },
+  { "id": "voc_741", "word": "Sleep", "meaning": "ঘুমানো", "example": "I sleep eight hours." },
+  { "id": "voc_742", "word": "Slow", "meaning": "ধীরে", "example": "Drive slow in rain." },
+  { "id": "voc_743", "word": "Small", "meaning": "ছোট", "example": "It's a small room." },
+  { "id": "voc_744", "word": "Smile", "meaning": "হাসি", "example": "She has a beautiful smile." },
+  { "id": "voc_745", "word": "Snow", "meaning": "তুষারপাত", "example": "It will snow tomorrow." },
+  { "id": "voc_746", "word": "So", "meaning": "সুতরাং", "example": "It was raining, so we stayed home." },
+  { "id": "voc_747", "word": "Social", "meaning": "সামাজিক", "example": "Social media is popular." },
+  { "id": "voc_748", "word": "Soft", "meaning": "নরম", "example": "The pillow is soft." },
+  { "id": "voc_749", "word": "Solve", "meaning": "সমাধান করা", "example": "Solve the problem." },
+  { "id": "voc_750", "word": "Some", "meaning": "কিছু", "example": "I have some money." },
+  { "id": "voc_751", "word": "Someone", "meaning": "কেউ", "example": "Someone is at the door." },
+  { "id": "voc_752", "word": "Something", "meaning": "কিছু", "example": "I need something to eat." },
+  { "id": "voc_753", "word": "Sometimes", "meaning": "কখনও কখনও", "example": "Sometimes I go to the park." },
+  { "id": "voc_754", "word": "Son", "meaning": "পুত্র", "example": "He has a son." },
+  { "id": "voc_755", "word": "Song", "meaning": "গান", "example": "I like this song." },
+  { "id": "voc_756", "word": "Soon", "meaning": "শীঘ্রই", "example": "I will come soon." },
+  { "id": "voc_757", "word": "Sorry", "meaning": "দুঃখিত", "example": "I'm sorry for being late." },
+  { "id": "voc_758", "word": "Sort", "meaning": "ধরন", "example": "What sort of music do you like?" },
+  { "id": "voc_759", "word": "Sound", "meaning": "শব্দ", "example": "The sound is loud." },
+  { "id": "voc_760", "word": "South", "meaning": "দক্ষিণ", "example": "He lives in the south part of the city." },
+  { "id": "voc_761", "word": "Space", "meaning": "স্থান", "example": "There is enough space here." },
+  { "id": "voc_762", "word": "Speak", "meaning": "কথা বলা", "example": "Please speak slowly." },
+  { "id": "voc_763", "word": "Special", "meaning": "বিশেষ", "example": "Today is a special day." },
+  { "id": "voc_764", "word": "Speech", "meaning": "বক্তৃতা", "example": "He gave a great speech." },
+  { "id": "voc_765", "word": "Spend", "meaning": "ব্যয় করা", "example": "I spend money on books." },
+  { "id": "voc_766", "word": "Sport", "meaning": "খেলা", "example": "Football is a popular sport." },
+  { "id": "voc_767", "word": "Staff", "meaning": "কর্মী", "example": "The staff are helpful." },
+  { "id": "voc_768", "word": "Stage", "meaning": "মঞ্চ", "example": "The play was on stage." },
+  { "id": "voc_769", "word": "Stand", "meaning": "দাঁড়ানো", "example": "Please stand here." },
+  { "id": "voc_770", "word": "Start", "meaning": "শুরু করা", "example": "Start the engine." },
+  { "id": "voc_771", "word": "State", "meaning": "রাষ্ট্র/অবস্থা", "example": "He is from a different state." },
+  { "id": "voc_772", "word": "Stay", "meaning": "থাকা", "example": "Stay here for a while." },
+  { "id": "voc_773", "word": "Step", "meaning": "পদক্ষেপ", "example": "Take one step at a time." },
+  { "id": "voc_774", "word": "Still", "meaning": "এখনো", "example": "He is still sleeping." },
+  { "id": "voc_775", "word": "Stop", "meaning": "বন্ধ করা", "example": "Stop talking." },
+  { "id": "voc_776", "word": "Store", "meaning": "দোকান", "example": "Buy it from the store." },
+  { "id": "voc_777", "word": "Story", "meaning": "গল্প", "example": "Tell me a story." },
+  { "id": "voc_778", "word": "Street", "meaning": "রাস্তা", "example": "The street is busy." },
+  { "id": "voc_779", "word": "Strong", "meaning": "শক্তিশালী", "example": "He is very strong." },
+  { "id": "voc_780", "word": "Student", "meaning": "শিক্ষার্থী", "example": "She is a good student." },
+  { "id": "voc_781", "word": "Study", "meaning": "অধ্যয়ন করা", "example": "I study every day." },
+  { "id": "voc_782", "word": "Subject", "meaning": "বিষয়", "example": "Math is my favorite subject." },
+  { "id": "voc_783", "word": "Success", "meaning": "সাফল্য", "example": "Success requires hard work." },
+  { "id": "voc_784", "word": "Such", "meaning": "এমন", "example": "I have never seen such a place." },
+  { "id": "voc_785", "word": "Sudden", "meaning": "হঠাৎ", "example": "There was a sudden noise." },
+  { "id": "voc_786", "word": "Suggest", "meaning": "প্রস্তাব করা", "example": "I suggest we leave early." },
+  { "id": "voc_787", "word": "Summer", "meaning": "গ্রীষ্ম", "example": "Summer is hot here." },
+  { "id": "voc_788", "word": "Support", "meaning": "সমর্থন", "example": "I support your decision." },
+  { "id": "voc_789", "word": "Sure", "meaning": "নিশ্চিত", "example": "Are you sure?" },
+  { "id": "voc_790", "word": "Surprise", "meaning": "আশ্চর্য", "example": "It was a surprise party." },
+  { "id": "voc_791", "word": "Sweet", "meaning": "মিষ্টি", "example": "I like sweet desserts." },
+  { "id": "voc_792", "word": "Table", "meaning": "টেবিল", "example": "Put the book on the table." },
+  { "id": "voc_793", "word": "Take", "meaning": "না নেওয়া", "example": "Take your time." },
+  { "id": "voc_794", "word": "Talk", "meaning": "কথা বলা", "example": "Let's talk later." },
+  { "id": "voc_795", "word": "Tall", "meaning": "লম্বা", "example": "He is tall." },
+  { "id": "voc_796", "word": "Teach", "meaning": "শিক্ষাদান করা", "example": "She teaches math." },
+  { "id": "voc_797", "word": "Team", "meaning": "দল", "example": "Our team won." },
+  { "id": "voc_798", "word": "Tell", "meaning": "বলুন", "example": "Tell me the truth." },
+  { "id": "voc_799", "word": "Ten", "meaning": "দশ", "example": "There are ten apples." },
+  { "id": "voc_800", "word": "Test", "meaning": "পরীক্ষা", "example": "I have a test tomorrow." },
+  { "id": "voc_800", "word": "Thank", "meaning": "ধন্যবাদ দেওয়া", "example": "Thank you for your help." },
+  { "id": "voc_801", "word": "That", "meaning": "ওটা", "example": "That is my book." },
+  { "id": "voc_802", "word": "The", "meaning": "সেটা", "example": "The cat is sleeping." },
+  { "id": "voc_803", "word": "Their", "meaning": "তাদের", "example": "Their house is big." },
+  { "id": "voc_804", "word": "Them", "meaning": "তাদেরকে", "example": "Give it to them." },
+  { "id": "voc_805", "word": "Then", "meaning": "তখন", "example": "We went there then." },
+  { "id": "voc_806", "word": "There", "meaning": "ওখানে", "example": "She is there now." },
+  { "id": "voc_807", "word": "These", "meaning": "এইগুলো", "example": "These are mine." },
+  { "id": "voc_808", "word": "They", "meaning": "তারা", "example": "They are coming." },
+  { "id": "voc_809", "word": "Thing", "meaning": "জিনিস", "example": "That thing is new." },
+  { "id": "voc_810", "word": "Think", "meaning": "ভাবা", "example": "I think it's right." },
+  { "id": "voc_811", "word": "This", "meaning": "এটা", "example": "This is easy." },
+  { "id": "voc_812", "word": "Those", "meaning": "ওগুলো", "example": "Those are old." },
+  { "id": "voc_813", "word": "Though", "meaning": "যদিও", "example": "Though it was cold, we went out." },
+  { "id": "voc_814", "word": "Thought", "meaning": "চিন্তা", "example": "I had a thought." },
+  { "id": "voc_815", "word": "Three", "meaning": "তিন", "example": "There are three chairs." },
+  { "id": "voc_816", "word": "Through", "meaning": "মাধ্যমে", "example": "We walked through the park." },
+  { "id": "voc_817", "word": "Throw", "meaning": "ছোঁড়া", "example": "Throw the ball." },
+  { "id": "voc_818", "word": "Time", "meaning": "সময়", "example": "What time is it?" },
+  { "id": "voc_819", "word": "To", "meaning": "প্রতি/কিছু করার জন্য", "example": "Go to school." },
+  { "id": "voc_820", "word": "Today", "meaning": "আজ", "example": "Today is Sunday." },
+  { "id": "voc_821", "word": "Together", "meaning": "একসাথে", "example": "Let's work together." },
+  { "id": "voc_822", "word": "Tomorrow", "meaning": "আগামীকাল", "example": "I will come tomorrow." },
+  { "id": "voc_823", "word": "Too", "meaning": "ওও", "example": "I want to go too." },
+  { "id": "voc_824", "word": "Top", "meaning": "সেরা/উপর", "example": "He is at the top." },
+  { "id": "voc_825", "word": "Town", "meaning": "শহর", "example": "I live in the town." },
+  { "id": "voc_826", "word": "Travel", "meaning": "ভ্রমণ করা", "example": "We like to travel." },
+  { "id": "voc_827", "word": "Tree", "meaning": "গাছ", "example": "The tree is tall." },
+  { "id": "voc_828", "word": "Try", "meaning": "চেষ্টা করা", "example": "Try your best." },
+  { "id": "voc_829", "word": "Turn", "meaning": "ঘূর্ণায়মান হওয়া", "example": "Turn left at the corner." },
+  { "id": "voc_830", "word": "Two", "meaning": "দুই", "example": "I have two pens." },
+  { "id": "voc_831", "word": "Under", "meaning": "নিচে", "example": "The book is under the table." },
+  { "id": "voc_832", "word": "Understand", "meaning": "বোঝা", "example": "Do you understand me?" },
+  { "id": "voc_833", "word": "Until", "meaning": "পর্যন্ত", "example": "Wait until I come." },
+  { "id": "voc_834", "word": "Up", "meaning": "উপর", "example": "Look up." },
+  { "id": "voc_835", "word": "Use", "meaning": "ব্যবহার করা", "example": "Use a pen." },
+  { "id": "voc_836", "word": "Very", "meaning": "খুব", "example": "She is very tall." },
+  { "id": "voc_837", "word": "Wait", "meaning": "অপেক্ষা করা", "example": "Wait here." },
+  { "id": "voc_838", "word": "Walk", "meaning": "হাঁটা", "example": "I walk to school." },
+  { "id": "voc_839", "word": "Want", "meaning": "চাওয়া", "example": "I want some water." },
+  { "id": "voc_840", "word": "War", "meaning": "যুদ্ধ", "example": "War is destructive." },
+  { "id": "voc_841", "word": "Warm", "meaning": "গরম", "example": "The sun is warm." },
+  { "id": "voc_842", "word": "Was", "meaning": "ছিল", "example": "He was late." },
+  { "id": "voc_843", "word": "Watch", "meaning": "ঘড়ি/দেখা", "example": "Watch the movie." },
+  { "id": "voc_844", "word": "Water", "meaning": "পানি", "example": "Drink water." },
+  { "id": "voc_845", "word": "Way", "meaning": "পথ", "example": "This is the way." },
+  { "id": "voc_846", "word": "We", "meaning": "আমরা", "example": "We are friends." },
+  { "id": "voc_847", "word": "Wear", "meaning": "পরিধান করা", "example": "Wear warm clothes." },
+  { "id": "voc_848", "word": "Week", "meaning": "সপ্তাহ", "example": "There are seven days in a week." },
+  { "id": "voc_849", "word": "Well", "meaning": "ভাল", "example": "She sings well." },
+  { "id": "voc_850", "word": "Went", "meaning": "গিয়েছিল", "example": "He went to school." },
+  { "id": "voc_851", "word": "Were", "meaning": "ছিল", "example": "They were happy." },
+  { "id": "voc_852", "word": "What", "meaning": "কি", "example": "What is this?" },
+  { "id": "voc_853", "word": "When", "meaning": "কখন", "example": "When will you come?" },
+  { "id": "voc_854", "word": "Where", "meaning": "কোথায়", "example": "Where are you?" },
+  { "id": "voc_855", "word": "Which", "meaning": "কোনটি", "example": "Which one do you want?" },
+  { "id": "voc_856", "word": "While", "meaning": "যখন", "example": "Read while you wait." },
+  { "id": "voc_857", "word": "Who", "meaning": "কে", "example": "Who is there?" },
+  { "id": "voc_858", "word": "Why", "meaning": "কেন", "example": "Why are you late?" },
+  { "id": "voc_859", "word": "Will", "meaning": "ইচ্ছা/হবে", "example": "I will come tomorrow." },
+  { "id": "voc_860", "word": "With", "meaning": "সঙ্গে", "example": "Come with me." },
+  { "id": "voc_861", "word": "Without", "meaning": "ছাড়া", "example": "I can't live without you." },
+  { "id": "voc_862", "word": "Work", "meaning": "কাজ", "example": "I work every day." },
+  { "id": "voc_863", "word": "World", "meaning": "বিশ্ব", "example": "The world is round." },
+  { "id": "voc_864", "word": "Would", "meaning": "ইচ্ছুক", "example": "I would like some tea." },
+  { "id": "voc_865", "word": "Write", "meaning": "লেখা", "example": "Write your name." },
+  { "id": "voc_866", "word": "Year", "meaning": "বছর", "example": "A year has 12 months." },
+  { "id": "voc_867", "word": "Yes", "meaning": "হ্যাঁ", "example": "Yes, I agree." },
+  { "id": "voc_868", "word": "You", "meaning": "তুমি/আপনি", "example": "You are welcome." },
+  { "id": "voc_869", "word": "Young", "meaning": "যুবক/যুবতী", "example": "She is very young." },
+  { "id": "voc_870", "word": "Your", "meaning": "তোমার/আপনার", "example": "Your book is on the table." },
+  { "id": "voc_871", "word": "Ability", "meaning": "ক্ষমতা", "example": "He has the ability to succeed." },
+  { "id": "voc_872", "word": "Able", "meaning": "সক্ষম", "example": "She is able to help." },
+  { "id": "voc_873", "word": "About", "meaning": "সম্পর্কে", "example": "Tell me about yourself." },
+  { "id": "voc_874", "word": "Above", "meaning": "উপর", "example": "The picture is above the bed." },
+  { "id": "voc_875", "word": "Accept", "meaning": "গ্রহণ করা", "example": "I accept your offer." },
+  { "id": "voc_876", "word": "Account", "meaning": "হিসাব", "example": "Check your bank account." },
+  { "id": "voc_877", "word": "Across", "meaning": "পারের দিকে", "example": "Walk across the street." },
+  { "id": "voc_878", "word": "Act", "meaning": "কাজ করা", "example": "Act quickly." },
+  { "id": "voc_879", "word": "Add", "meaning": "যোগ করা", "example": "Add sugar to the tea." },
+  { "id": "voc_880", "word": "Address", "meaning": "ঠিকানা", "example": "Write your address." },
+  { "id": "voc_881", "word": "Administer", "meaning": "পরিচালনা করা", "example": "Administer the medicine." },
+  { "id": "voc_882", "word": "Advise", "meaning": "পরামর্শ দেওয়া", "example": "I advise you to study." },
+  { "id": "voc_883", "word": "Affair", "meaning": "ব্যবস্থা", "example": "Mind your own affair." },
+  { "id": "voc_884", "word": "After", "meaning": "পরবর্তী", "example": "We will meet after lunch." },
+  { "id": "voc_885", "word": "Again", "meaning": "আবার", "example": "Try again." },
+  { "id": "voc_886", "word": "Against", "meaning": "বিরুদ্ধে", "example": "Fight against injustice." },
+  { "id": "voc_887", "word": "Age", "meaning": "বয়স", "example": "What is your age?" },
+  { "id": "voc_888", "word": "Ago", "meaning": "আগে", "example": "He left two days ago." },
+  { "id": "voc_889", "word": "Agree", "meaning": "সম্মত হওয়া", "example": "I agree with you." },
+  { "id": "voc_890", "word": "Ahead", "meaning": "সামনে", "example": "Look ahead." },
+  { "id": "voc_891", "word": "Aim", "meaning": "লক্ষ্য", "example": "My aim is to learn English." },
+  { "id": "voc_892", "word": "Air", "meaning": "বায়ু", "example": "The air is fresh." },
+  { "id": "voc_893", "word": "All", "meaning": "সব", "example": "All are welcome." },
+  { "id": "voc_894", "word": "Allow", "meaning": "অনুমতি দেওয়া", "example": "They allow smoking here." },
+  { "id": "voc_895", "word": "Almost", "meaning": "প্রায়", "example": "I almost finished." },
+  { "id": "voc_896", "word": "Alone", "meaning": "একলা", "example": "He is alone." },
+  { "id": "voc_897", "word": "Along", "meaning": "সঙ্গে", "example": "Walk along the road." },
+  { "id": "voc_898", "word": "Already", "meaning": "আগেই", "example": "I already knew." },
+  { "id": "voc_899", "word": "Also", "meaning": "এছাড়াও", "example": "She is smart and also kind." },
+  { "id": "voc_900", "word": "Always", "meaning": "সবসময়", "example": "She is always happy." },
+  { "id": "voc_901", "word": "Amount", "meaning": "পরিমাণ", "example": "The amount is sufficient." },
+  { "id": "voc_902", "word": "Analyze", "meaning": "বিশ্লেষণ করা", "example": "Analyze the data carefully." },
+  { "id": "voc_903", "word": "Ancient", "meaning": "প্রাচীন", "example": "Ancient artifacts were found." },
+  { "id": "voc_904", "word": "Angry", "meaning": "রাগানো", "example": "He was angry at the news." },
+  { "id": "voc_905", "word": "Animal", "meaning": "প্রাণী", "example": "The animal is wild." },
+  { "id": "voc_906", "word": "Answer", "meaning": "উত্তর", "example": "Give the correct answer." },
+  { "id": "voc_907", "word": "Appear", "meaning": "প্রদর্শিত হওয়া", "example": "She appeared on stage." },
+  { "id": "voc_908", "word": "Apply", "meaning": "আবেদন করা/প্রয়োগ করা", "example": "Apply the cream twice daily." },
+  { "id": "voc_909", "word": "Approach", "meaning": "পদ্ধতি/কাছাকাছি আসা", "example": "Try a new approach." },
+  { "id": "voc_910", "word": "Area", "meaning": "এলাকা", "example": "This area is crowded." },
+  { "id": "voc_911", "word": "Argue", "meaning": "বিতর্ক করা", "example": "They argue often." },
+  { "id": "voc_912", "word": "Arm", "meaning": "হাত", "example": "He broke his arm." },
+  { "id": "voc_913", "word": "Arrange", "meaning": "ব্যবস্থা করা", "example": "Arrange the chairs." },
+  { "id": "voc_914", "word": "Arrive", "meaning": "অবতরণ করা", "example": "They will arrive soon." },
+  { "id": "voc_915", "word": "Article", "meaning": "প্রবন্ধ/নিবন্ধ", "example": "Read the article carefully." },
+  { "id": "voc_916", "word": "Artist", "meaning": "শিল্পী", "example": "The artist painted a picture." },
+  { "id": "voc_917", "word": "Ask", "meaning": "জিজ্ঞাসা করা", "example": "Ask your teacher." },
+  { "id": "voc_918", "word": "Attack", "meaning": "আক্রমণ করা", "example": "They planned an attack." },
+  { "id": "voc_919", "word": "Attempt", "meaning": "চেষ্টা", "example": "He made an attempt." },
+  { "id": "voc_920", "word": "Attention", "meaning": "মনোযোগ", "example": "Pay attention in class." },
+  { "id": "voc_921", "word": "Audience", "meaning": "দর্শক", "example": "The audience applauded." },
+  { "id": "voc_922", "word": "Author", "meaning": "লেখক", "example": "The author wrote a novel." },
+  { "id": "voc_923", "word": "Available", "meaning": "উপলব্ধ", "example": "The book is available." },
+  { "id": "voc_924", "word": "Avoid", "meaning": "পরিহার করা", "example": "Avoid making mistakes." },
+  { "id": "voc_925", "word": "Awake", "meaning": "জাগ্রত", "example": "She was awake all night." },
+  { "id": "voc_926", "word": "Award", "meaning": "পুরস্কার", "example": "He received an award." },
+  { "id": "voc_927", "word": "Aware", "meaning": "সচেতন", "example": "Be aware of the rules." },
+  { "id": "voc_928", "word": "Away", "meaning": "দূরে", "example": "He is away on vacation." },
+  { "id": "voc_929", "word": "Baby", "meaning": "শিশু", "example": "The baby is sleeping." },
+  { "id": "voc_930", "word": "Back", "meaning": "পিঠ/ফিরে", "example": "He hurt his back." },
+  { "id": "voc_931", "word": "Bad", "meaning": "খারাপ", "example": "This is a bad idea." },
+  { "id": "voc_932", "word": "Bag", "meaning": "ব্যাগ", "example": "Put it in the bag." },
+  { "id": "voc_933", "word": "Ball", "meaning": "বল", "example": "Throw the ball." },
+  { "id": "voc_934", "word": "Bank", "meaning": "ব্যাংক", "example": "She went to the bank." },
+  { "id": "voc_935", "word": "Bar", "meaning": "বার", "example": "They met at the bar." },
+  { "id": "voc_936", "word": "Base", "meaning": "ভিত্তি", "example": "The base is strong." },
+  { "id": "voc_937", "word": "Basic", "meaning": "মৌলিক", "example": "Learn basic English." },
+  { "id": "voc_938", "word": "Battle", "meaning": "যুদ্ধ", "example": "They fought a battle." },
+  { "id": "voc_939", "word": "Be", "meaning": "হওয়া", "example": "Be kind." },
+  { "id": "voc_940", "word": "Beautiful", "meaning": "সুন্দর", "example": "She is beautiful." },
+  { "id": "voc_941", "word": "Because", "meaning": "কারণ", "example": "I stayed because I was tired." },
+  { "id": "voc_942", "word": "Become", "meaning": "হয়ে উঠা", "example": "He became a doctor." },
+  { "id": "voc_943", "word": "Bed", "meaning": "বিছানা", "example": "Go to bed early." },
+  { "id": "voc_944", "word": "Before", "meaning": "আগে", "example": "Finish it before noon." },
+  { "id": "voc_945", "word": "Begin", "meaning": "শুরু করা", "example": "Begin your work." },
+  { "id": "voc_946", "word": "Behind", "meaning": "পেছনে", "example": "He is behind you." },
+  { "id": "voc_947", "word": "Believe", "meaning": "বিশ্বাস করা", "example": "I believe in you." },
+  { "id": "voc_948", "word": "Bell", "meaning": "ঘন্টা", "example": "Ring the bell." },
+  { "id": "voc_949", "word": "Below", "meaning": "নিচে", "example": "Look below the table." },
+  { "id": "voc_950", "word": "Best", "meaning": "সেরা", "example": "She is the best student." },
+  { "id": "voc_951", "word": "Better", "meaning": "ভাল", "example": "I feel better now." },
+  { "id": "voc_952", "word": "Between", "meaning": "মধ্যে", "example": "Sit between us." },
+  { "id": "voc_953", "word": "Beyond", "meaning": "পারের", "example": "Beyond the mountains." },
+  { "id": "voc_954", "word": "Big", "meaning": "বড়", "example": "This is a big house." },
+  { "id": "voc_955", "word": "Bill", "meaning": "বিল", "example": "Pay the bill." },
+  { "id": "voc_956", "word": "Bird", "meaning": "পাখি", "example": "The bird is flying." },
+  { "id": "voc_957", "word": "Birth", "meaning": "জন্ম", "example": "Her birth was celebrated." },
+  { "id": "voc_958", "word": "Bit", "meaning": "টুকরা", "example": "A bit of sugar." },
+  { "id": "voc_959", "word": "Black", "meaning": "কালো", "example": "She wore a black dress." },
+  { "id": "voc_960", "word": "Blood", "meaning": "রক্ত", "example": "Blood is red." },
+  { "id": "voc_961", "word": "Blow", "meaning": "ঘূর্ণায়মান হওয়া/মার", "example": "The wind will blow." },
+  { "id": "voc_962", "word": "Blue", "meaning": "নীল", "example": "The sky is blue." },
+  { "id": "voc_963", "word": "Board", "meaning": "বোর্ড", "example": "Write on the board." },
+  { "id": "voc_964", "word": "Boat", "meaning": "নৌকা", "example": "The boat is fast." },
+  { "id": "voc_965", "word": "Body", "meaning": "দেহ", "example": "His body is strong." },
+  { "id": "voc_966", "word": "Book", "meaning": "বই", "example": "Read a book." },
+  { "id": "voc_967", "word": "Born", "meaning": "জন্মানো", "example": "She was born in May." },
+  { "id": "voc_968", "word": "Both", "meaning": "উভয়", "example": "Both are correct." },
+  { "id": "voc_969", "word": "Box", "meaning": "বাক্স", "example": "Put it in the box." },
+  { "id": "voc_970", "word": "Boy", "meaning": "ছেলে", "example": "The boy is playing." },
+  { "id": "voc_971", "word": "Break", "meaning": "ভাঙা", "example": "Don't break the glass." },
+  { "id": "voc_972", "word": "Bring", "meaning": "আনা", "example": "Bring your books." },
+  { "id": "voc_973", "word": "Brother", "meaning": "ভাই", "example": "My brother is tall." },
+  { "id": "voc_974", "word": "Brown", "meaning": "বাদামী", "example": "She has brown hair." },
+  { "id": "voc_975", "word": "Build", "meaning": "নির্মাণ করা", "example": "Build a house." },
+  { "id": "voc_976", "word": "Burn", "meaning": "জ্বালা/আগুন লাগা", "example": "The fire will burn." },
+  { "id": "voc_977", "word": "Bus", "meaning": "বাস", "example": "Take the bus to school." },
+  { "id": "voc_978", "word": "Business", "meaning": "ব্যবসা", "example": "He owns a business." },
+  { "id": "voc_979", "word": "Busy", "meaning": "ব্যস্ত", "example": "She is busy now." },
+  { "id": "voc_980", "word": "But", "meaning": "কিন্তু", "example": "I like it but it is expensive." },
+  { "id": "voc_981", "word": "Buy", "meaning": "কেনা", "example": "Buy some fruits." },
+  { "id": "voc_982", "word": "By", "meaning": "দ্বারা", "example": "Travel by bus." },
+  { "id": "voc_983", "word": "Call", "meaning": "কল করা", "example": "Call me later." },
+  { "id": "voc_984", "word": "Can", "meaning": "পারা", "example": "I can swim." },
+  { "id": "voc_985", "word": "Capital", "meaning": "রাজধানী", "example": "Dhaka is the capital." },
+  { "id": "voc_986", "word": "Car", "meaning": "গাড়ি", "example": "Drive the car carefully." },
+  { "id": "voc_987", "word": "Card", "meaning": "কার্ড", "example": "Give me your card." },
+  { "id": "voc_988", "word": "Care", "meaning": "যত্ন", "example": "Take care of yourself." },
+  { "id": "voc_989", "word": "Carry", "meaning": "বহন করা", "example": "Carry the bag." },
+  { "id": "voc_990", "word": "Case", "meaning": "মামলা/ঘটনা", "example": "In case of fire, run." },
+  { "id": "voc_991", "word": "Cat", "meaning": "বিড়াল", "example": "The cat is sleeping." },
+  { "id": "voc_992", "word": "Catch", "meaning": "ধরা", "example": "Catch the ball." },
+  { "id": "voc_993", "word": "Cause", "meaning": "কারণ", "example": "What is the cause?" },
+  { "id": "voc_994", "word": "Center", "meaning": "কেন্দ্র", "example": "The center of the city." },
+  { "id": "voc_995", "word": "Century", "meaning": "শতাব্দী", "example": "The 21st century." },
+  { "id": "voc_996", "word": "Certain", "meaning": "নিশ্চিত", "example": "Are you certain?" },
+  { "id": "voc_997", "word": "Chair", "meaning": "কাঁপানি", "example": "Sit on the chair." },
+  { "id": "voc_998", "word": "Chance", "meaning": "সুযোগ", "example": "Take a chance." },
+  { "id": "voc_999", "word": "Change", "meaning": "পরিবর্তন", "example": "Change your clothes." },
+  { "id": "voc_1000", "word": "Charge", "meaning": "চার্জ", "example": "Charge your phone." }
+]
