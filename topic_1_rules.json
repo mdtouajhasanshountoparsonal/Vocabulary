@@ -6,23 +6,23 @@
     "examples": [
       {
         "sentence": "The __ is running.",
-        "answers": ["boy", "dog", "cat"]
+        "answers": ["boy", "dog", "cat", "child", "man", "girl"]
       },
       {
         "sentence": "I saw a __ in the garden.",
-        "answers": ["bird", "butterfly"]
+        "answers": ["bird", "butterfly", "squirrel", "rabbit"]
       },
       {
         "sentence": "She has a __ on her desk.",
-        "answers": ["book", "pen", "laptop"]
+        "answers": ["book", "pen", "laptop", "notebook", "phone"]
       },
       {
         "sentence": "The __ is shining brightly.",
-        "answers": ["sun", "moon"]
+        "answers": ["sun", "moon", "star"]
       },
       {
         "sentence": "My favorite __ is basketball.",
-        "answers": ["sport", "game"]
+        "answers": ["sport", "game", "hobby"]
       }
     ]
   },
@@ -33,7 +33,15 @@
     "examples": [
       {
         "sentence": "__ is playing football.",
-        "answers": ["He", "She"]
+        "answers": ["He", "She", "They", "We"]
+      },
+      {
+        "sentence": "This is __ book.",
+        "answers": ["my", "your", "his", "her", "their"]
+      },
+      {
+        "sentence": "__ went to the market.",
+        "answers": ["He", "She", "They", "We"]
       }
     ]
   },
@@ -44,7 +52,15 @@
     "examples": [
       {
         "sentence": "She __ a song.",
-        "answers": ["sings"]
+        "answers": ["sings", "is singing", "will sing"]
+      },
+      {
+        "sentence": "They __ football every Sunday.",
+        "answers": ["play", "are playing"]
+      },
+      {
+        "sentence": "He __ very fast.",
+        "answers": ["runs", "is running"]
       }
     ]
   },
@@ -55,7 +71,15 @@
     "examples": [
       {
         "sentence": "He has a __ car.",
-        "answers": ["red", "new", "fast"]
+        "answers": ["red", "new", "fast", "big", "expensive"]
+      },
+      {
+        "sentence": "It was a __ day.",
+        "answers": ["sunny", "cold", "hot", "rainy", "beautiful"]
+      },
+      {
+        "sentence": "She wore a __ dress.",
+        "answers": ["blue", "long", "elegant"]
       }
     ]
   },
@@ -66,7 +90,15 @@
     "examples": [
       {
         "sentence": "She runs __.",
-        "answers": ["quickly", "slowly", "well"]
+        "answers": ["quickly", "slowly", "well", "carefully", "happily"]
+      },
+      {
+        "sentence": "He spoke __.",
+        "answers": ["loudly", "softly", "clearly"]
+      },
+      {
+        "sentence": "They arrived __ early.",
+        "answers": ["very", "quite", "almost"]
       }
     ]
   },
@@ -77,7 +109,15 @@
     "examples": [
       {
         "sentence": "The cat is __ the table.",
-        "answers": ["under", "on", "beside"]
+        "answers": ["under", "on", "beside", "behind", "in front of"]
+      },
+      {
+        "sentence": "He walked __ the park.",
+        "answers": ["through", "across", "around"]
+      },
+      {
+        "sentence": "The book is __ the shelf.",
+        "answers": ["on", "under", "behind"]
       }
     ]
   },
@@ -88,7 +128,15 @@
     "examples": [
       {
         "sentence": "I like tea __ coffee.",
+        "answers": ["and", "but", "or"]
+      },
+      {
+        "sentence": "She is smart __ hardworking.",
         "answers": ["and", "but"]
+      },
+      {
+        "sentence": "Do you want tea __ coffee?",
+        "answers": ["or"]
       }
     ]
   },
@@ -99,7 +147,15 @@
     "examples": [
       {
         "sentence": "__! That was amazing.",
-        "answers": ["Wow", "Oh", "Ah"]
+        "answers": ["Wow", "Oh", "Ah", "Hey", "Oops"]
+      },
+      {
+        "sentence": "__! I forgot my keys.",
+        "answers": ["Oh", "Oops", "Ah"]
+      },
+      {
+        "sentence": "__! What a beautiful view.",
+        "answers": ["Wow", "Oh"]
       }
     ]
   }
