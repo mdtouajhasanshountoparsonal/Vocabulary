@@ -1,0 +1,51 @@
+[
+  {
+    "id": "rule_5_1",
+    "topicId": "topic_5",
+    "text": "Direct speech থেকে indirect speech-এ রূপান্তর করার সময় সাধারণত বাক্যের ক্রম পরিবর্তন হয়।",
+    "example": "She said, \"I am happy.\"",
+    "exampleAnswer": "She said that she was happy."
+  },
+  {
+    "id": "rule_5_2",
+    "topicId": "topic_5",
+    "text": "Reporting verb যেমন said, told, asked ইত্যাদি ব্যবহার হয় indirect speech-এ।",
+    "example": "He said, \"I will come tomorrow.\"",
+    "exampleAnswer": "He said that he would come tomorrow."
+  },
+  {
+    "id": "rule_5_3",
+    "topicId": "topic_5",
+    "text": "Pronoun এবং সময়ের শব্দ indirect speech-এ পরিবর্তিত হতে পারে। যেমন, I → he/she, today → that day।",
+    "example": "She said, \"I am busy today.\"",
+    "exampleAnswer": "She said that she was busy that day."
+  },
+  {
+    "id": "rule_5_4",
+    "topicId": "topic_5",
+    "text": "Present tense থেকে past tense-এ পরিবর্তন হয় indirect speech-এ।",
+    "example": "He says, \"I live here.\"",
+    "exampleAnswer": "He says that he lives here."
+  },
+  {
+    "id": "rule_5_5",
+    "topicId": "topic_5",
+    "text": "Question বাক্য indirect speech-এ পরিবর্তিত হলে, সাধারণত if বা whether ব্যবহৃত হয়।",
+    "example": "He asked, \"Are you coming?\"",
+    "exampleAnswer": "He asked if you were coming."
+  },
+  {
+    "id": "rule_5_6",
+    "topicId": "topic_5",
+    "text": "Imperative sentence indirect speech-এ পরিবর্তনের সময় ‘to’ infinitive ব্যবহার হয়।",
+    "example": "He said, \"Please sit down.\"",
+    "exampleAnswer": "He told me to sit down."
+  },
+  {
+    "id": "rule_5_7",
+    "topicId": "topic_5",
+    "text": "If clause direct speech-এ থাকলে indirect speech-এ তা সাধারণত অপরিবর্তিত থাকে।",
+    "example": "She said, \"If it rains, I will stay home.\"",
+    "exampleAnswer": "She said that if it rained, she would stay home."
+  }
+]
