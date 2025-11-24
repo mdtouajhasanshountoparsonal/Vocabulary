@@ -7,7 +7,7 @@
   {
     "id": "topic_2",
     "title": "Tenses",
-    "rulesUrl": "https://your-host.com/topic_2_rules.json"
+    "rulesUrl": "https://raw.githubusercontent.com/mdtouajhasanshountoparsonal/Vocabulary/main/topic_2_rules.json"
   },
   {
     "id": "topic_3",
@@ -50,3 +50,4 @@
     "rulesUrl": "https://your-host.com/topic_10_rules.json"
   }
 ]
+
