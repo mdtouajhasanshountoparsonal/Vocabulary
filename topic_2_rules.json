@@ -1,0 +1,65 @@
+[
+  {
+    "id": "rule_2_1",
+    "topicId": "topic_2",
+    "text": "Present Simple Tense দিয়ে এমন কাজ বোঝানো হয় যা নিয়মিত বা সাধারণভাবে ঘটে।",
+    "example": "He __ (go) to school every day.",
+    "exampleAnswer": "goes"
+  },
+  {
+    "id": "rule_2_2",
+    "topicId": "topic_2",
+    "text": "Present Continuous Tense দিয়ে এমন কাজ বোঝানো হয় যা এখনই চলছে।",
+    "example": "She __ (read) a book now.",
+    "exampleAnswer": "is reading"
+  },
+  {
+    "id": "rule_2_3",
+    "topicId": "topic_2",
+    "text": "Present Perfect Tense দিয়ে এমন কাজ বোঝানো হয় যা এখন পর্যন্ত সম্পন্ন হয়েছে।",
+    "example": "They __ (finish) their homework.",
+    "exampleAnswer": "have finished"
+  },
+  {
+    "id": "rule_2_4",
+    "topicId": "topic_2",
+    "text": "Past Simple Tense দিয়ে এমন কাজ বোঝানো হয় যা অতীতে সম্পন্ন হয়েছে।",
+    "example": "He __ (visit) his uncle yesterday.",
+    "exampleAnswer": "visited"
+  },
+  {
+    "id": "rule_2_5",
+    "topicId": "topic_2",
+    "text": "Past Continuous Tense দিয়ে এমন কাজ বোঝানো হয় যা অতীতে কোনো সময় চলছিল।",
+    "example": "I __ (watch) TV at 8 pm last night.",
+    "exampleAnswer": "was watching"
+  },
+  {
+    "id": "rule_2_6",
+    "topicId": "topic_2",
+    "text": "Past Perfect Tense দিয়ে এমন কাজ বোঝানো হয় যা অতীতে কোনো কাজের আগে সম্পন্ন হয়েছে।",
+    "example": "She __ (leave) before I arrived.",
+    "exampleAnswer": "had left"
+  },
+  {
+    "id": "rule_2_7",
+    "topicId": "topic_2",
+    "text": "Future Simple Tense দিয়ে এমন কাজ বোঝানো হয় যা ভবিষ্যতে ঘটবে।",
+    "example": "They __ (go) to the market tomorrow.",
+    "exampleAnswer": "will go"
+  },
+  {
+    "id": "rule_2_8",
+    "topicId": "topic_2",
+    "text": "Future Continuous Tense দিয়ে এমন কাজ বোঝানো হয় যা ভবিষ্যতে কোনো সময় চলতে থাকবে।",
+    "example": "I __ (study) at 9 pm tomorrow.",
+    "exampleAnswer": "will be studying"
+  },
+  {
+    "id": "rule_2_9",
+    "topicId": "topic_2",
+    "text": "Future Perfect Tense দিয়ে এমন কাজ বোঝানো হয় যা ভবিষ্যতে কোনো সময়ের আগে সম্পন্ন হবে।",
+    "example": "He __ (finish) the work by next week.",
+    "exampleAnswer": "will have finished"
+  }
+]
