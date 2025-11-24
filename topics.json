@@ -17,38 +17,39 @@
   {
     "id": "topic_4",
     "title": "Voice Change",
-    "rulesUrl": "https://your-host.com/topic_4_rules.json"
+    "rulesUrl": "https://raw.githubusercontent.com/mdtouajhasanshountoparsonal/Vocabulary/main/topic_4_rules.json"
   },
   {
     "id": "topic_5",
     "title": "Narration",
-    "rulesUrl": "https://your-host.com/topic_5_rules.json"
+    "rulesUrl": "https://raw.githubusercontent.com/mdtouajhasanshountoparsonal/Vocabulary/main/topic_5_rules.json"
   },
   {
     "id": "topic_6",
     "title": "WH Words",
-    "rulesUrl": "https://your-host.com/topic_6_rules.json"
+    "rulesUrl": "https://raw.githubusercontent.com/mdtouajhasanshountoparsonal/Vocabulary/main/topic_6_rules.json"
   },
   {
     "id": "topic_7",
     "title": "Clause",
-    "rulesUrl": "https://your-host.com/topic_7_rules.json"
+    "rulesUrl": "https://https://raw.githubusercontent.com/mdtouajhasanshountoparsonal/Vocabulary/main/topic_7_rules.json"
   },
   {
     "id": "topic_8",
     "title": "Phrase",
-    "rulesUrl": "https://your-host.com/topic_8_rules.json"
+    "rulesUrl": "https://raw.githubusercontent.com/mdtouajhasanshountoparsonal/Vocabulary/main/topic_8_rules.json"
   },
   {
     "id": "topic_9",
     "title": "Modal Verbs",
-    "rulesUrl": "https://your-host.com/topic_9_rules.json"
+    "rulesUrl": "https://raw.githubusercontent.com/mdtouajhasanshountoparsonal/Vocabulary/main/topic_9_rules.json"
   },
   {
     "id": "topic_10",
     "title": "Degrees of Comparison",
-    "rulesUrl": "https://your-host.com/topic_10_rules.json"
+    "rulesUrl": "https://raw.githubusercontent.com/mdtouajhasanshountoparsonal/Vocabulary/main/topic_10_rules.json"
   }
 ]
+
 
 
