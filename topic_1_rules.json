@@ -3,8 +3,34 @@
     "id": "rule_1_1",
     "topicId": "topic_1",
     "text": "Noun হলো এমন শব্দ যা ব্যক্তি, স্থান, বস্তু অথবা কোনো ধারণার নাম প্রকাশ করে।",
-    "example": "The __ is running.",
-    "exampleAnswer": "boy"
+    {
+  "id": "rule_1_1",
+  "topicId": "topic_1",
+  "text": "Noun হলো এমন শব্দ যা ব্যক্তি, স্থান, বস্তু অথবা কোনো ধারণার নাম প্রকাশ করে।",
+  "examples": [
+    {
+      "sentence": "The __ is running.",
+      "answers": ["boy", "dog", "cat"]
+    },
+    {
+      "sentence": "I saw a __ in the garden.",
+      "answers": ["bird", "butterfly"]
+    },
+    {
+      "sentence": "She has a __ on her desk.",
+      "answers": ["book", "pen", "laptop"]
+    },
+    {
+      "sentence": "The __ is shining brightly.",
+      "answers": ["sun", "moon"]
+    },
+    {
+      "sentence": "My favorite __ is basketball.",
+      "answers": ["sport", "game"]
+    }
+  ]
+}
+
   },
   {
     "id": "rule_1_2",
@@ -56,3 +82,4 @@
     "exampleAnswer": "Wow"
   }
 ]
+
