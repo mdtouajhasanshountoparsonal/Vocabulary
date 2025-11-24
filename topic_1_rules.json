@@ -1,0 +1,58 @@
+[
+  {
+    "id": "rule_1_1",
+    "topicId": "topic_1",
+    "text": "Noun হলো এমন শব্দ যা ব্যক্তি, স্থান, বস্তু অথবা কোনো ধারণার নাম প্রকাশ করে।",
+    "example": "The __ is running.",
+    "exampleAnswer": "boy"
+  },
+  {
+    "id": "rule_1_2",
+    "topicId": "topic_1",
+    "text": "Pronoun হলো Noun-এর পরিবর্তে ব্যবহৃত শব্দ।",
+    "example": "__ is playing football.",
+    "exampleAnswer": "He"
+  },
+  {
+    "id": "rule_1_3",
+    "topicId": "topic_1",
+    "text": "Verb হলো এমন শব্দ যা কোনো কাজ, অবস্থা বা ঘটনাকে প্রকাশ করে।",
+    "example": "She __ a song.",
+    "exampleAnswer": "sings"
+  },
+  {
+    "id": "rule_1_4",
+    "topicId": "topic_1",
+    "text": "Adjective হলো এমন শব্দ যা Noun বা Pronoun-এর গুণ, অবস্থা বা সংখ্যা প্রকাশ করে।",
+    "example": "He has a __ car.",
+    "exampleAnswer": "red"
+  },
+  {
+    "id": "rule_1_5",
+    "topicId": "topic_1",
+    "text": "Adverb হলো এমন শব্দ যা Verb, Adjective বা অন্য Adverb-কে বিশেষিত করে।",
+    "example": "She runs __.",
+    "exampleAnswer": "quickly"
+  },
+  {
+    "id": "rule_1_6",
+    "topicId": "topic_1",
+    "text": "Preposition হলো এমন শব্দ যা কোনো Noun/Pronoun-এর সাথে বাক্যের অন্য শব্দের সম্পর্ক বোঝায়।",
+    "example": "The cat is __ the table.",
+    "exampleAnswer": "under"
+  },
+  {
+    "id": "rule_1_7",
+    "topicId": "topic_1",
+    "text": "Conjunction হলো এমন শব্দ যা শব্দ, শব্দগুচ্ছ বা বাক্যকে যুক্ত করে।",
+    "example": "I like tea __ coffee.",
+    "exampleAnswer": "and"
+  },
+  {
+    "id": "rule_1_8",
+    "topicId": "topic_1",
+    "text": "Interjection হলো এমন শব্দ যা হঠাৎ অনুভূতি বা আবেগ প্রকাশ করে।",
+    "example": "__! That was amazing.",
+    "exampleAnswer": "Wow"
+  }
+]
