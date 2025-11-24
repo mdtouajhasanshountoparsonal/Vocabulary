@@ -12,7 +12,7 @@
   {
     "id": "topic_3",
     "title": "Articles",
-    "rulesUrl": "https://your-host.com/topic_3_rules.json"
+    "rulesUrl": "https://raw.githubusercontent.com/mdtouajhasanshountoparsonal/Vocabulary/main/topic_3_rules.json"
   },
   {
     "id": "topic_4",
@@ -50,4 +50,5 @@
     "rulesUrl": "https://your-host.com/topic_10_rules.json"
   }
 ]
+
 
