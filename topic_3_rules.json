@@ -1,0 +1,44 @@
+[
+  {
+    "id": "rule_3_1",
+    "topicId": "topic_3",
+    "text": "Articles হলো এমন শব্দ যা Noun-এর আগে বসে তার স্পষ্টতা বা অস্পষ্টতা দেখায়।",
+    "example": "I saw __ cat in the garden.",
+    "exampleAnswer": "a"
+  },
+  {
+    "id": "rule_3_2",
+    "topicId": "topic_3",
+    "text": "‘A’ ব্যবহার হয় সাধারণ Noun-এর আগে, যা একক এবং যেটা স্পষ্ট নয়।",
+    "example": "She has __ book.",
+    "exampleAnswer": "a"
+  },
+  {
+    "id": "rule_3_3",
+    "topicId": "topic_3",
+    "text": "‘An’ ব্যবহার হয় এমন Noun-এর আগে যা স্বরধ্বনি দিয়ে শুরু হয় এবং একক।",
+    "example": "He is eating __ apple.",
+    "exampleAnswer": "an"
+  },
+  {
+    "id": "rule_3_4",
+    "topicId": "topic_3",
+    "text": "‘The’ ব্যবহার হয় এমন Noun-এর আগে যা নির্দিষ্ট বা আগেই জানা।",
+    "example": "Please close __ door.",
+    "exampleAnswer": "the"
+  },
+  {
+    "id": "rule_3_5",
+    "topicId": "topic_3",
+    "text": "‘The’ ব্যবহার হয় একক ও বহুবচন উভয় Noun-এর আগে, যখন তা নির্দিষ্ট।",
+    "example": "I like __ books on the table.",
+    "exampleAnswer": "the"
+  },
+  {
+    "id": "rule_3_6",
+    "topicId": "topic_3",
+    "text": "Articles ব্যবহার না করার নিয়মও আছে, যেমন Proper Noun-এর আগে সাধারণত article লাগে না।",
+    "example": "___ London is beautiful.",
+    "exampleAnswer": ""
+  }
+]
