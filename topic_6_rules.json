@@ -1,0 +1,51 @@
+[
+  {
+    "id": "rule_6_1",
+    "topicId": "topic_6",
+    "text": "Who ব্যাক্তি সম্পর্কে জানতে ব্যবহার হয়।",
+    "example": "___ is at the door?",
+    "exampleAnswer": "Who"
+  },
+  {
+    "id": "rule_6_2",
+    "topicId": "topic_6",
+    "text": "What কোন বস্তু বা বিষয় সম্পর্কে জানতে ব্যবহৃত হয়।",
+    "example": "___ is your name?",
+    "exampleAnswer": "What"
+  },
+  {
+    "id": "rule_6_3",
+    "topicId": "topic_6",
+    "text": "Where স্থানের ব্যাপারে জানতে ব্যবহৃত হয়।",
+    "example": "___ do you live?",
+    "exampleAnswer": "Where"
+  },
+  {
+    "id": "rule_6_4",
+    "topicId": "topic_6",
+    "text": "When সময় সম্পর্কে জানতে ব্যবহৃত হয়।",
+    "example": "___ is your birthday?",
+    "exampleAnswer": "When"
+  },
+  {
+    "id": "rule_6_5",
+    "topicId": "topic_6",
+    "text": "Why কারণ বা উদ্দেশ্য জানতে ব্যবহৃত হয়।",
+    "example": "___ are you late?",
+    "exampleAnswer": "Why"
+  },
+  {
+    "id": "rule_6_6",
+    "topicId": "topic_6",
+    "text": "How কিভাবে বা কীভাবে জানতে ব্যবহৃত হয়।",
+    "example": "___ do you go to school?",
+    "exampleAnswer": "How"
+  },
+  {
+    "id": "rule_6_7",
+    "topicId": "topic_6",
+    "text": "Which নির্দিষ্ট বাছাই বা নির্বাচন জানতে ব্যবহৃত হয়।",
+    "example": "___ color do you like?",
+    "exampleAnswer": "Which"
+  }
+]
