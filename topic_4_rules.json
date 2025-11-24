@@ -1,0 +1,65 @@
+[
+  {
+    "id": "rule_4_1",
+    "topicId": "topic_4",
+    "text": "Active voice-এ যেখানে subject কাজ করে, passive voice-এ subject কাজ গ্রহণ করে।",
+    "example": "She writes a letter.",
+    "exampleAnswer": "A letter is written by her."
+  },
+  {
+    "id": "rule_4_2",
+    "topicId": "topic_4",
+    "text": "Simple Present tense-এর active voice এর passive voice: Verb ‘am/is/are’ + past participle।",
+    "example": "He cleans the room.",
+    "exampleAnswer": "The room is cleaned by him."
+  },
+  {
+    "id": "rule_4_3",
+    "topicId": "topic_4",
+    "text": "Simple Past tense-এর active voice এর passive voice: Verb ‘was/were’ + past participle।",
+    "example": "They built a house.",
+    "exampleAnswer": "A house was built by them."
+  },
+  {
+    "id": "rule_4_4",
+    "topicId": "topic_4",
+    "text": "Present Continuous tense-এর active voice এর passive voice: ‘am/is/are being’ + past participle।",
+    "example": "She is writing a letter.",
+    "exampleAnswer": "A letter is being written by her."
+  },
+  {
+    "id": "rule_4_5",
+    "topicId": "topic_4",
+    "text": "Past Continuous tense-এর active voice এর passive voice: ‘was/were being’ + past participle।",
+    "example": "They were painting the house.",
+    "exampleAnswer": "The house was being painted by them."
+  },
+  {
+    "id": "rule_4_6",
+    "topicId": "topic_4",
+    "text": "Present Perfect tense-এর active voice এর passive voice: ‘has/have been’ + past participle।",
+    "example": "He has done the work.",
+    "exampleAnswer": "The work has been done by him."
+  },
+  {
+    "id": "rule_4_7",
+    "topicId": "topic_4",
+    "text": "Past Perfect tense-এর active voice এর passive voice: ‘had been’ + past participle।",
+    "example": "She had finished the project.",
+    "exampleAnswer": "The project had been finished by her."
+  },
+  {
+    "id": "rule_4_8",
+    "topicId": "topic_4",
+    "text": "Future Simple tense-এর active voice এর passive voice: ‘will be’ + past participle।",
+    "example": "They will complete the task.",
+    "exampleAnswer": "The task will be completed by them."
+  },
+  {
+    "id": "rule_4_9",
+    "topicId": "topic_4",
+    "text": "Modal verbs-এর active voice এর passive voice: Modal + ‘be’ + past participle।",
+    "example": "She can solve the problem.",
+    "exampleAnswer": "The problem can be solved by her."
+  }
+]
