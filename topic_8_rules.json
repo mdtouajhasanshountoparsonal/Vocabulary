@@ -1,0 +1,44 @@
+[
+  {
+    "id": "rule_8_1",
+    "topicId": "topic_8",
+    "text": "Phrase হলো এমন শব্দগুচ্ছ যা একটি সম্পূর্ণ বাক্য গঠন করতে পারে না কারণ এতে subject বা verb থাকে না।",
+    "example": "in the morning",
+    "exampleAnswer": "in the morning"
+  },
+  {
+    "id": "rule_8_2",
+    "topicId": "topic_8",
+    "text": "Noun phrase হলো এমন phrase যা noun এবং তার modifiers নিয়ে গঠিত।",
+    "example": "the big house",
+    "exampleAnswer": "the big house"
+  },
+  {
+    "id": "rule_8_3",
+    "topicId": "topic_8",
+    "text": "Verb phrase হলো phrase যা verb এবং তার auxiliary verbs নিয়ে গঠিত।",
+    "example": "has been running",
+    "exampleAnswer": "has been running"
+  },
+  {
+    "id": "rule_8_4",
+    "topicId": "topic_8",
+    "text": "Adjective phrase হলো phrase যা adjective এবং তার modifiers নিয়ে গঠিত।",
+    "example": "very beautiful",
+    "exampleAnswer": "very beautiful"
+  },
+  {
+    "id": "rule_8_5",
+    "topicId": "topic_8",
+    "text": "Adverb phrase হলো phrase যা adverb এবং তার modifiers নিয়ে গঠিত।",
+    "example": "quite slowly",
+    "exampleAnswer": "quite slowly"
+  },
+  {
+    "id": "rule_8_6",
+    "topicId": "topic_8",
+    "text": "Prepositional phrase হলো phrase যা preposition এবং তার object নিয়ে গঠিত।",
+    "example": "on the table",
+    "exampleAnswer": "on the table"
+  }
+]
