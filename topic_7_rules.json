@@ -1,0 +1,44 @@
+[
+  {
+    "id": "rule_7_1",
+    "topicId": "topic_7",
+    "text": "Clause হলো এমন একটি শব্দগুচ্ছ যা একটি subject ও একটি verb ধারণ করে।",
+    "example": "She sings well.",
+    "exampleAnswer": "She sings well."
+  },
+  {
+    "id": "rule_7_2",
+    "topicId": "topic_7",
+    "text": "Independent clause এমন clause যা একটি পূর্ণ বাক্য হিসেবে কাজ করতে পারে।",
+    "example": "I like coffee.",
+    "exampleAnswer": "I like coffee."
+  },
+  {
+    "id": "rule_7_3",
+    "topicId": "topic_7",
+    "text": "Dependent clause এমন clause যা সম্পূর্ণ বাক্য হিসেবে কাজ করতে পারে না এবং Independent clause-এর সাহায্য প্রয়োজন।",
+    "example": "Because it was raining,",
+    "exampleAnswer": "Because it was raining,"
+  },
+  {
+    "id": "rule_7_4",
+    "topicId": "topic_7",
+    "text": "Adjective clause এমন dependent clause যা noun বা pronoun-এর সম্পর্কে তথ্য দেয়।",
+    "example": "The man who is tall is my uncle.",
+    "exampleAnswer": "The man who is tall is my uncle."
+  },
+  {
+    "id": "rule_7_5",
+    "topicId": "topic_7",
+    "text": "Adverb clause এমন dependent clause যা verb, adjective বা অন্য adverb-এর সম্পর্কে তথ্য দেয়।",
+    "example": "She sings better than I do.",
+    "exampleAnswer": "She sings better than I do."
+  },
+  {
+    "id": "rule_7_6",
+    "topicId": "topic_7",
+    "text": "Noun clause এমন dependent clause যা sentence-এর subject, object বা complement হিসেবে কাজ করে।",
+    "example": "What he said is true.",
+    "exampleAnswer": "What he said is true."
+  }
+]
