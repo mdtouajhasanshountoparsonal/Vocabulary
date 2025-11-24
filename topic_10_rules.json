@@ -1,0 +1,37 @@
+[
+  {
+    "id": "rule_10_1",
+    "topicId": "topic_10",
+    "text": "Positive degree হলো মূল অবস্থা বা গুণ, যেমন ‘fast’।",
+    "example": "He is __ than his brother.",
+    "exampleAnswer": "fast"
+  },
+  {
+    "id": "rule_10_2",
+    "topicId": "topic_10",
+    "text": "Comparative degree হলো দুই জিনিসের তুলনা বোঝায়, যেমন ‘faster’।",
+    "example": "She runs __ than I do.",
+    "exampleAnswer": "faster"
+  },
+  {
+    "id": "rule_10_3",
+    "topicId": "topic_10",
+    "text": "Superlative degree হলো তিন বা তার বেশি জিনিসের মধ্যে সর্বোচ্চ গুণ বোঝায়, যেমন ‘fastest’।",
+    "example": "He is the __ runner in the team.",
+    "exampleAnswer": "fastest"
+  },
+  {
+    "id": "rule_10_4",
+    "topicId": "topic_10",
+    "text": "Comparative degree তৈরি করতে সাধারণত ‘-er’ যুক্ত করা হয় বা ‘more’ ব্যবহার করা হয়।",
+    "example": "This book is __ than that one.",
+    "exampleAnswer": "better"
+  },
+  {
+    "id": "rule_10_5",
+    "topicId": "topic_10",
+    "text": "Superlative degree তৈরি করতে সাধারণত ‘-est’ যুক্ত করা হয় বা ‘most’ ব্যবহার করা হয়।",
+    "example": "She is the __ student in the class.",
+    "exampleAnswer": "best"
+  }
+]
