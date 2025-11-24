@@ -1,0 +1,52 @@
+[
+  {
+    "id": "topic_1",
+    "title": "Parts of Speech",
+    "rulesUrl": "https://raw.githubusercontent.com/mdtouajhasanshountoparsonal/Vocabulary/main/topic_1_rules.json"
+  },
+  {
+    "id": "topic_2",
+    "title": "Tenses",
+    "rulesUrl": "https://your-host.com/topic_2_rules.json"
+  },
+  {
+    "id": "topic_3",
+    "title": "Articles",
+    "rulesUrl": "https://your-host.com/topic_3_rules.json"
+  },
+  {
+    "id": "topic_4",
+    "title": "Voice Change",
+    "rulesUrl": "https://your-host.com/topic_4_rules.json"
+  },
+  {
+    "id": "topic_5",
+    "title": "Narration",
+    "rulesUrl": "https://your-host.com/topic_5_rules.json"
+  },
+  {
+    "id": "topic_6",
+    "title": "WH Words",
+    "rulesUrl": "https://your-host.com/topic_6_rules.json"
+  },
+  {
+    "id": "topic_7",
+    "title": "Clause",
+    "rulesUrl": "https://your-host.com/topic_7_rules.json"
+  },
+  {
+    "id": "topic_8",
+    "title": "Phrase",
+    "rulesUrl": "https://your-host.com/topic_8_rules.json"
+  },
+  {
+    "id": "topic_9",
+    "title": "Modal Verbs",
+    "rulesUrl": "https://your-host.com/topic_9_rules.json"
+  },
+  {
+    "id": "topic_10",
+    "title": "Degrees of Comparison",
+    "rulesUrl": "https://your-host.com/topic_10_rules.json"
+  }
+]
