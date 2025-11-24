@@ -1,0 +1,51 @@
+[
+  {
+    "id": "rule_9_1",
+    "topicId": "topic_9",
+    "text": "Modal verbs হলো বিশেষ ধরনের সাহায্যকারী ক্রিয়া যা মূল ক্রিয়ার আগে ব্যবহার হয়। যেমন can, may, must।",
+    "example": "She __ swim well.",
+    "exampleAnswer": "can"
+  },
+  {
+    "id": "rule_9_2",
+    "topicId": "topic_9",
+    "text": "Can ব্যবহার হয় সক্ষমতা বা অনুমতি জানাতে।",
+    "example": "He __ speak three languages.",
+    "exampleAnswer": "can"
+  },
+  {
+    "id": "rule_9_3",
+    "topicId": "topic_9",
+    "text": "May ব্যবহার হয় সম্ভাবনা বা অনুমতি জানাতে।",
+    "example": "You __ leave now.",
+    "exampleAnswer": "may"
+  },
+  {
+    "id": "rule_9_4",
+    "topicId": "topic_9",
+    "text": "Must ব্যবহার হয় বাধ্যবাধকতা বা প্রয়োজনীয়তা বোঝাতে।",
+    "example": "You __ finish your homework.",
+    "exampleAnswer": "must"
+  },
+  {
+    "id": "rule_9_5",
+    "topicId": "topic_9",
+    "text": "Should ব্যবহার হয় পরামর্শ বা সুপারিশ জানাতে।",
+    "example": "You __ see a doctor.",
+    "exampleAnswer": "should"
+  },
+  {
+    "id": "rule_9_6",
+    "topicId": "topic_9",
+    "text": "Might ব্যবহার হয় সম্ভাবনা বা অনুমানের জন্য।",
+    "example": "It __ rain tomorrow.",
+    "exampleAnswer": "might"
+  },
+  {
+    "id": "rule_9_7",
+    "topicId": "topic_9",
+    "text": "Will ব্যবহার হয় ভবিষ্যৎ কাল বোঝাতে।",
+    "example": "I __ call you later.",
+    "exampleAnswer": "will"
+  }
+]
