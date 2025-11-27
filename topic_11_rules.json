@@ -158,5 +158,54 @@
     "description": "### Examples\n- know, understand, believe\n(এগুলো সাধারণত ing নেয় না)",
     "example": "I __ (know) the answer.",
     "exampleAnswer": "know"
-  }
+  },
+  {
+  "id": "rule_11_21",
+  "topicId": "topic_11",
+  "text": "“fond of / interested in / capable of / good at / without / before / after”—এর পরে সবসময় Gerund (V + ing) হয়।",
+  "description": "### Structure\n(preposition/phrase) + V + ing\n\n### Examples\n- He is fond of playing football.\n- She is interested in learning English.\n- They left without saying goodbye.\n- Before going home, I visited him.\n- I am good at solving puzzles.\n- He succeeded without trying hard.\n- After finishing his work, he went home.\n- She is capable of managing the team.\n- We talked about going to the park.\n- They were excited about travelling abroad.",
+  "examples": [
+    {
+      "sentence": "He is fond of __ (play) football.",
+      "answers": ["playing"]
+    },
+    {
+      "sentence": "She is interested in __ (learn) English.",
+      "answers": ["learning"]
+    },
+    {
+      "sentence": "They left without __ (say) goodbye.",
+      "answers": ["saying"]
+    },
+    {
+      "sentence": "Before __ (go) home, I visited him.",
+      "answers": ["going"]
+    },
+    {
+      "sentence": "I am good at __ (solve) puzzles.",
+      "answers": ["solving"]
+    },
+    {
+      "sentence": "He succeeded without __ (try) hard.",
+      "answers": ["trying"]
+    },
+    {
+      "sentence": "After __ (finish) his work, he went home.",
+      "answers": ["finishing"]
+    },
+    {
+      "sentence": "She is capable of __ (manage) the team.",
+      "answers": ["managing"]
+    },
+    {
+      "sentence": "We talked about __ (go) to the park.",
+      "answers": ["going"]
+    },
+    {
+      "sentence": "They were excited about __ (travel) abroad.",
+      "answers": ["travelling", "traveling"]
+    }
+  ]
+}
+
 ]
