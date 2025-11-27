@@ -1,0 +1,162 @@
+[
+  {
+    "id": "rule_11_1",
+    "topicId": "topic_11",
+    "text": "Regular verb-এর V2 এবং V3 form সাধারণত -ed যোগ করে তৈরি হয়।",
+    "description": "### Structure\nV1 + ed → V2, V3\n### Examples\n- play → played → played\n- work → worked → worked\n- watch → watched → watched",
+    "example": "He __ (work) hard yesterday.",
+    "exampleAnswer": "worked"
+  },
+  {
+    "id": "rule_11_2",
+    "topicId": "topic_11",
+    "text": "Regular verb যদি e দিয়ে শেষ হয় তবে শুধু d যোগ হয়।",
+    "description": "### Structure\nV1 (end with 'e') + d → V2, V3\n### Examples\n- live → lived → lived\n- love → loved → loved",
+    "example": "She __ (live) in Dhaka for 5 years.",
+    "exampleAnswer": "lived"
+  },
+  {
+    "id": "rule_11_3",
+    "topicId": "topic_11",
+    "text": "Regular verb যদি ব্যঞ্জনবর্ণ + y দিয়ে শেষ হয় তবে y → ied হবে।",
+    "description": "### Structure\nV1 (consonant + y) → y → ied\n### Examples\n- cry → cried → cried\n- study → studied → studied",
+    "example": "He __ (study) hard last night.",
+    "exampleAnswer": "studied"
+  },
+  {
+    "id": "rule_11_4",
+    "topicId": "topic_11",
+    "text": "Irregular verb-গুলোর V2 এবং V3 form মুখস্থ করতে হয়।",
+    "description": "### Examples\n- go → went → gone\n- eat → ate → eaten\n- write → wrote → written",
+    "example": "She has __ (write) a letter.",
+    "exampleAnswer": "written"
+  },
+  {
+    "id": "rule_11_5",
+    "topicId": "topic_11",
+    "text": "Subject he/she/it/singular noun হলে Verb-এর সাথে সাধারণত s/es যোগ হয়।",
+    "description": "### Structure\nSubject (he/she/it) + V1 + s/es\n### Examples\n- He works\n- She goes\n- It rains",
+    "example": "He __ (go) to school daily.",
+    "exampleAnswer": "goes"
+  },
+  {
+    "id": "rule_11_6",
+    "topicId": "topic_11",
+    "text": "Verb যদি o, ch, sh, ss, x দিয়ে শেষ হয় তাহলে es যোগ হয়।",
+    "description": "### Structure\nV1 (end with o/ch/sh/ss/x) + es\n### Examples\n- go → goes\n- watch → watches\n- pass → passes",
+    "example": "She __ (watch) TV every evening.",
+    "exampleAnswer": "watches"
+  },
+  {
+    "id": "rule_11_7",
+    "topicId": "topic_11",
+    "text": "Verb যদি vowel + y দিয়ে শেষ হয়, তাহলে শুধু s যোগ হবে।",
+    "description": "### Examples\n- play → plays\n- enjoy → enjoys",
+    "example": "He __ (play) cricket every day.",
+    "exampleAnswer": "plays"
+  },
+  {
+    "id": "rule_11_8",
+    "topicId": "topic_11",
+    "text": "Continuous Tense-এ সর্বদা verb-এর সাথে ing যোগ হয়।",
+    "description": "### Structure\nV1 + ing\n### Examples\n- go → going\n- write → writing\n- run → running",
+    "example": "She is __ (read) a book.",
+    "exampleAnswer": "reading"
+  },
+  {
+    "id": "rule_11_9",
+    "topicId": "topic_11",
+    "text": "Verb যদি এক অক্ষরবিশিষ্ট হয় এবং শেষে ব্যঞ্জনবর্ণ থাকে, ing যোগ করার আগে consonant ডাবল হয়।",
+    "description": "### Examples\n- run → running\n- sit → sitting\n- cut → cutting",
+    "example": "He is __ (run) fast.",
+    "exampleAnswer": "running"
+  },
+  {
+    "id": "rule_11_10",
+    "topicId": "topic_11",
+    "text": "Verb e দিয়ে শেষ হলে ing যোগ করার সময় e বাদ পড়ে।",
+    "description": "### Examples\n- write → writing\n- drive → driving\n- give → giving",
+    "example": "She is __ (write) a story.",
+    "exampleAnswer": "writing"
+  },
+  {
+    "id": "rule_11_11",
+    "topicId": "topic_11",
+    "text": "Past Perfect-এ verb-এর সর্বদা V3 form হয়।",
+    "description": "### Structure\nhad + V3\n### Examples\n- had gone\n- had eaten",
+    "example": "She had __ (eat) before I arrived.",
+    "exampleAnswer": "eaten"
+  },
+  {
+    "id": "rule_11_12",
+    "topicId": "topic_11",
+    "text": "Present Perfect-এ verb-এর সর্বদা V3 form হয়।",
+    "description": "### Structure\nhave/has + V3\n### Examples\n- has seen\n- have written",
+    "example": "They have __ (see) the movie.",
+    "exampleAnswer": "seen"
+  },
+  {
+    "id": "rule_11_13",
+    "topicId": "topic_11",
+    "text": "Future Perfect-এ verb-এর সর্বদা V3 form হয়।",
+    "description": "### Structure\nwill have + V3\n### Examples\n- will have finished\n- will have gone",
+    "example": "He will have __ (finish) the work.",
+    "exampleAnswer": "finished"
+  },
+  {
+    "id": "rule_11_14",
+    "topicId": "topic_11",
+    "text": "Passive Voice-এ verb সর্বদা V3 form হয়।",
+    "description": "### Structure\nbe + V3\n### Examples\n- is written\n- was done",
+    "example": "The letter was __ (write) yesterday.",
+    "exampleAnswer": "written"
+  },
+  {
+    "id": "rule_11_15",
+    "topicId": "topic_11",
+    "text": "Modal verb-এর পরে verb-এর base form (V1) হয়।",
+    "description": "### Examples\n- can go\n- should read\n- will come",
+    "example": "He can __ (do) it.",
+    "exampleAnswer": "do"
+  },
+  {
+    "id": "rule_11_16",
+    "topicId": "topic_11",
+    "text": "To-এর পরে সাধারণত verb-এর base form (V1) হয়।",
+    "description": "### Examples\n- to read\n- to go",
+    "example": "I want to __ (eat) rice.",
+    "exampleAnswer": "eat"
+  },
+  {
+    "id": "rule_11_17",
+    "topicId": "topic_11",
+    "text": "Gerund-এ verb-এর সাথে ing যোগ হয় এবং এটি noun-এর মতো কাজ করে।",
+    "description": "### Examples\n- Reading is fun.\n- Swimming is healthy.",
+    "example": "__ (swim) is good for health.",
+    "exampleAnswer": "Swimming"
+  },
+  {
+    "id": "rule_11_18",
+    "topicId": "topic_11",
+    "text": "Infinitive-এর গঠন হচ্ছে to + V1।",
+    "description": "### Examples\n- to run\n- to speak",
+    "example": "She wants __ (go) home.",
+    "exampleAnswer": "to go"
+  },
+  {
+    "id": "rule_11_19",
+    "topicId": "topic_11",
+    "text": "Verb-এর plural subject হলে verb base form থাকে।",
+    "description": "### Examples\n- They play\n- We read",
+    "example": "They __ (read) books daily.",
+    "exampleAnswer": "read"
+  },
+  {
+    "id": "rule_11_20",
+    "topicId": "topic_11",
+    "text": "Some verbs do not take ing form (Non-progressive verbs)।",
+    "description": "### Examples\n- know, understand, believe\n(এগুলো সাধারণত ing নেয় না)",
+    "example": "I __ (know) the answer.",
+    "exampleAnswer": "know"
+  }
+]
